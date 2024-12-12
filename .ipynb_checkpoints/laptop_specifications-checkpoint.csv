@@ -1,0 +1,501 @@
+laptop name,GPU,Main Memory,Secondary Memory,Screen Dimension,Weight
+"Lenovo ThinkPad X1 Extreme 16"" WQUXGA Intel Core i9-12900H 2.5GHz ", Nvidia GeForce RTX 3080 Ti Laptop , 64GB RAM , 8TB SSD,"16""",1.88kg
+"Lenovo ThinkPad X1 Extreme 16"" WQUXGA Intel Core i9-12900H 2.5GHz ", Nvidia GeForce RTX 3080 Ti Laptop , 64GB RAM , 4TB SSD,"16""",1.88kg
+"MSI Titan 18 HX A14VIG 18"" UHD Plus Intel Core i9-14900HX 2.2GHz ", Nvidia GeForce RTX 4090 Laptop , 128GB RAM , 2TB SSD + 2TB SSD,"18""",3.6kg
+"Lenovo Legion 9i Gen 8 16"" Intel Core i9-13980HX 2.2GHz ", Nvidia GeForce RTX 4090 Laptop , 64GB RAM , 2TB SSD,"16""",2.55kg
+"Asus ROG Zephyrus Duo 16 (2023) 16"" QHD Plus AMD Ryzen 9 7945HX 2.5GHz ", Nvidia GeForce RTX 4090 Laptop , 64GB RAM , 2TB SSD + 2TB SSD,"16""",2.67kg
+"Lenovo ThinkPad X1 Extreme 16"" WQUXGA Intel Core i7-12800H 1.8GHz ", Nvidia GeForce RTX 3070 Ti Laptop , 64GB RAM , 4TB SSD,"16""",1.88kg
+"MSI Titan 18 HX A14VHG 18"" UHD Plus Intel Core i9-14900HX 2.2GHz ", Nvidia GeForce RTX 4080 Laptop , 64GB RAM , 2TB SSD + 2TB SSD,"18""",3.6kg
+"Asus ROG Strix G18 (2023) 18"" QHD Plus Intel Core i9-13980HX 2.2GHz ", Nvidia GeForce RTX 4080 Laptop , 96GB RAM , 16TB SSD,"18""",3kg
+"Dell Alienware M18 18"" QHD Plus Intel Core i9-13900HX 2.2GHz ", Nvidia GeForce RTX 4090 Laptop , 64GB RAM , 4TB SSD + 4TB SSD,"18""",4.04kg
+"Asus ROG Strix Scar 17 (2023) 17.3"" WQHD AMD Ryzen 9 7945HX 2.5GHz ", Nvidia GeForce RTX 4090 Laptop , 64GB RAM , 2TB SSD,"17.3""",3kg
+"Asus ROG Strix Scar 18 (2023) 18"" QHD Plus Intel Core i9-13980HX 2.2GHz ", Nvidia GeForce RTX 4090 Laptop , 64GB RAM , 2TB SSD + 2TB SSD,"18""",3.1kg
+"Asus ROG Zephyrus Duo 16 (2023) 16"" QHD Plus AMD Ryzen 9 7945HX 2.5GHz ", Nvidia GeForce RTX 4080 Laptop , 64GB RAM , 2TB SSD + 2TB SSD,"16""",2.67kg
+"Razer Blade 18 (2023) 18"" QHD Plus Intel Core i9-13980HX 2.2GHz ", Nvidia GeForce RTX 4090 Laptop , 64GB RAM , 2TB SSD,"18""",3.1kg
+"Dell Alienware m18 R2 18"" QHD Plus Intel Core i9-14900HX 2.2GHz ", Nvidia GeForce RTX 4090 Laptop , 64GB RAM , 4TB SSD + 4TB SSD,"18""",4.23kg
+"Asus ROG Zephyrus M16 (2023) 16"" QHD Plus Intel Core i9-13900H 2.6GHz ", Nvidia GeForce RTX 4090 Laptop , 64GB RAM , 2TB SSD,"16""",2.3kg
+"Razer Blade 18 (2023) 18"" QHD Plus Intel Core i9-13950HX 2.2GHz ", Nvidia GeForce RTX 4090 Laptop , 32GB RAM , 1TB SSD + 1TB SSD,"18""",3.1kg
+"Razer Blade 16 (2023) 16"" UHD Plus Intel Core i9-13950HX 2.2GHz ", Nvidia GeForce RTX 4090 Laptop , 32GB RAM , 1TB SSD + 1TB SSD,"16""",2.45kg
+"Lenovo ThinkPad X1 Extreme 16"" WQUXGA Intel Core i7-12800H 1.8GHz ", Nvidia GeForce RTX 3050 Ti Laptop , 64GB RAM , 4TB SSD + 4TB SSD,"16""",1.88kg
+Acer Predator Triton 17 X (2023) Intel Core i9-13900HX 2.2GHz , Nvidia GeForce RTX 4090 Laptop , 64GB RAM , 2TB SSD,"17""",3kg
+"Dell Alienware M16 16"" QHD Plus Intel Core i9-13900HX 2.2GHz ", Nvidia GeForce RTX 4090 Laptop , 64GB RAM , 4TB SSD + 4TB SSD,"16""",3.25kg
+"Asus Zenbook Pro 16X OLED UX7602BZ 16"" Intel Core i9-13905H 2.6GHz ", Nvidia GeForce RTX 4080 Laptop , 16GB RAM , 2TB SSD,"16""",2.4kg
+"Gigabyte Aorus 17X AZF (2023) 17.3"" Intel Core i9-13980HX 2.2GHz ", Nvidia GeForce RTX 4090 Laptop , 32GB RAM , 2TB SSD,"17.3""",2.8kg
+"Dell Alienware M18 18"" QHD Plus Intel Core i9-13900HX 2.2GHz ", Nvidia GeForce RTX 4080 Laptop , 64GB RAM , 4TB SSD + 4TB SSD,"18""",4.04kg
+"Asus ROG Strix Scar 17 (2023) 17.3"" WQHD AMD Ryzen 9 7945HX 2.5GHz ", Nvidia GeForce RTX 4080 Laptop , 64GB RAM , 2TB SSD,"17.3""",3kg
+"Asus ROG Strix Scar 18 (2023) 18"" QHD Plus Intel Core i9-13980HX 2.2GHz ", Nvidia GeForce RTX 4080 Laptop , 64GB RAM , 2TB SSD + 2TB SSD,"18""",3.1kg
+"MSI GT77 Titan 12UGS-008 17.3"" UHD Intel Core i9-12900HX 1.5GHz ", Nvidia GeForce RTX 3070 Ti Laptop , 128GB RAM , 2TB SSD,"17.3""",3.3kg
+"Samsung Galaxy Book4 Ultra 16"" Intel Core Ultra 9 185H 2.3GHz ", Nvidia GeForce RTX 4070 Laptop , 32GB RAM , 2TB SSD,"16""",1.86kg
+"Lenovo Legion Pro 7i 16"" WQXGA Intel Core i9-13900HX 2.2GHz ", Nvidia GeForce RTX 4080 Laptop , 32GB RAM , 1TB SSD + 1TB SSD,"16""",2.8kg
+"Razer Blade 16 (2023) 16"" QHD Plus Intel Core i9-13950HX 2.2GHz ", Nvidia GeForce RTX 4080 Laptop , 32GB RAM , 1TB SSD,"16""",2.45kg
+"Dell Alienware m18 R2 18"" QHD Plus Intel Core i9-14900HX 2.2GHz ", Nvidia GeForce RTX 4080 Laptop , 64GB RAM , 4TB SSD + 4TB SSD,"18""",4.23kg
+"Asus ROG Zephyrus Duo 16 (2023) 16"" QHD Plus AMD Ryzen 9 7945HX 2.5GHz ", Nvidia GeForce RTX 4070 Laptop , 64GB RAM , 2TB SSD + 2TB SSD,"16""",2.67kg
+"Razer Blade 18 (2023) 18"" QHD Plus Intel Core i9-13950HX 2.2GHz ", Nvidia GeForce RTX 4080 Laptop , 32GB RAM , 1TB SSD,"18""",3.1kg
+"Asus ROG Zephyrus M16 (2023) 16"" QHD Plus Intel Core i9-13900H 2.6GHz ", Nvidia GeForce RTX 4080 Laptop , 64GB RAM , 2TB SSD,"16""",2.3kg
+"Asus ROG Strix G16 (2023) 16"" QHD Plus Intel Core i9-13980HX 2.2GHz ", Nvidia GeForce RTX 4080 Laptop , 32GB RAM , 2TB SSD,"16""",2.5kg
+"Asus ROG Zephyrus Duo 16 (2023) 16"" QHD Plus AMD Ryzen 9 7945HX 2.5GHz ", Nvidia GeForce RTX 4060 Laptop , 64GB RAM , 2TB SSD + 2TB SSD,"16""",2.67kg
+"Asus ROG Zephyrus G14 (2023) 14"" QHD Plus AMD Ryzen 9 7940HS 4GHz ", Nvidia GeForce RTX 4090 Laptop , 32GB RAM , 1TB SSD,"14""",1.72kg
+"Asus ROG Zephyrus Duo 16 (2022) GX650 16"" AMD Ryzen 9 6900HX 3.3GHz ", Nvidia GeForce RTX 3080 Ti Laptop , 64GB RAM , 4TB SSD + 4TB SSD,"16""",2.55kg
+"Dell Alienware M16 16"" QHD Plus Intel Core i9-13900HX 2.2GHz ", Nvidia GeForce RTX 4080 Laptop , 64GB RAM , 4TB SSD + 4TB SSD,"16""",3.25kg
+"Asus ROG Strix Scar 16 (2023) 16"" QHD Plus Intel Core i9-13980HX 2.2GHz ", Nvidia GeForce RTX 4090 Laptop , 64GB RAM , 2TB SSD + 2TB SSD,"16""",2.6kg
+"MSI GT77 Titan 12UHS-006 17.3"" UHD Intel Core i9-12900HX 2.3GHz ", Nvidia GeForce RTX 3080 Ti Laptop , 64GB RAM , 2TB SSD,"17.3""",3.3kg
+"HP Omen Transcend 16-u0002np 16"" Intel Core i9-13900HX 2.2GHz ", Nvidia GeForce RTX 4070 Laptop , 32GB RAM , 1TB SSD,"16""",2.16kg
+"Asus ROG Strix G18 (2023) 18"" QHD Plus Intel Core i9-13980HX 2.2GHz ", Nvidia GeForce RTX 4070 Laptop , 64GB RAM , 4TB SSD,"18""",3kg
+"Asus ROG Zephyrus Duo 16 (2022) GX650 16"" AMD Ryzen 9 6900HX 3.3GHz ", Nvidia GeForce RTX 3080 Laptop , 64GB RAM , 2TB SSD + 2TB SSD,"16""",2.55kg
+"Gigabyte Aorus 17X AZF (2023) 17.3"" Intel Core i9-13950HX 2.2GHz ", Nvidia GeForce RTX 4090 Laptop , 32GB RAM , 2TB SSD,"17.3""",2.8kg
+"Razer Blade 17 (2022) 17.3"" UHD Intel Core i9-12900H 1.8GHz ", Nvidia GeForce RTX 3080 Ti Laptop , 32GB RAM , 1TB SSD,"17.3""",2.75kg
+"Gigabyte Aorus 17X AXF (2023) 17.3"" Intel Core i9-13900HX 2.2GHz ", Nvidia GeForce RTX 4080 Laptop , 16GB RAM , 1TB SSD,"17.3""",2.8kg
+"Dell Alienware x17 R2 (2022) 17.3"" UHD Intel Core i7-12700H 2.3GHz ", Nvidia GeForce RTX 3080 Ti Laptop , 64GB RAM , 2TB SSD + 2TB SSD,"17.3""",3.03kg
+"Razer Blade 15 (2022) 15.6"" UHD Intel Core i9-12900H 1.8GHz ", Nvidia GeForce RTX 3080 Ti Laptop , 32GB RAM , 1TB SSD,"15.6""",2kg
+Dell Alienware X17 R1 Intel Core i9-11980HK 2.6GHz , Nvidia GeForce RTX 3080 Laptop , 64GB RAM , 4TB SSD,"17.3""",3.2kg
+Acer Predator Helios 16 (2023) Intel Core i9-13900HX 2.2GHz , Nvidia GeForce RTX 4080 Laptop , 32GB RAM , 2TB SSD,"16""",2.6kg
+"Gigabyte Aorus 17X AZF (2023) 17.3"" Intel Core i9-13900HX 2.2GHz ", Nvidia GeForce RTX 4090 Laptop , 32GB RAM , 2TB SSD,"17.3""",2.8kg
+"HP Omen 17-ck2781ng 17"" Intel Core i9-13900HX 2.2GHz ", Nvidia GeForce RTX 4080 Laptop , 32GB RAM , 1TB SSD,"17.3""",2.78kg
+"Asus ROG Zephyrus Duo 16 (2022) GX650 16"" AMD Ryzen 9 6900HX 3.3GHz ", Nvidia GeForce RTX 3070 Ti Laptop , 64GB RAM , 8TB SSD + 8TB SSD,"16""",2.6kg
+"Dell Alienware x17 R2 (2022) 17.3"" UHD Intel Core i9-12900HK 2.5GHz ", Nvidia GeForce RTX 3080 Ti Laptop , 64GB RAM , 2TB SSD + 2TB SSD,"17.3""",3kg
+"Gigabyte Aorus 17X AXF (2023) 17.3"" Intel Core i9-13980HX 2.2GHz ", Nvidia GeForce RTX 4080 Laptop , 16GB RAM , 1TB SSD,"17.3""",2.8kg
+"Dell Alienware m18 R2 18"" QHD Plus Intel Core i7-14700HX 2.1GHz ", Nvidia GeForce RTX 4070 Laptop , 64GB RAM , 4TB SSD + 4TB SSD,"18""",4.23kg
+"HP ZBook Studio G10 16"" Intel Core i7-13700H 2.4GHz ", Nvidia GeForce RTX 4070 Laptop , 32GB RAM , 1TB SSD,"16""",1.73kg
+"Asus ROG Strix G17 (2023) 17.3"" WQHD AMD Ryzen 9 7945HX 2.5GHz ", Nvidia GeForce RTX 4070 Laptop , 32GB RAM , 2TB SSD,"17.3""",2.8kg
+"Asus ROG Flow X16 (2023) 16"" QHD Plus Intel Core i9-13900H 2.6GHz ", Nvidia GeForce RTX 4070 Laptop , 16GB RAM , 2TB SSD,"16""",2.2kg
+"ASUS Zenbook Pro 16X OLED (UX7602) 16"" Intel Core i9-12900H 2.5GHz ", Nvidia GeForce RTX 3060 Laptop , 32GB RAM , 2TB SSD,"16""",2.4kg
+"Lenovo ThinkPad X1 Yoga Gen 7 14"" WQUXGA OLED Intel Core i7-1260P 2.1GHz ", 32GB RAM , 2TB SSD,,"14""",1.38kg
+"MSI CreatorPro Z17 A12UMST-200ES 17"" QHD Plus Intel Core i9-12900H 2.5GHz ", Nvidia RTX A5500 Laptop , 64GB RAM , 2TB SSD,"17""",2.49kg
+"Asus Zenbook Pro 15 Flip OLED UP6502ZD 15.6"" Intel Core i7-12700H 2.3GHz ", Intel Arc A370M , 16GB RAM , 1TB SSD,"15.6""",1.8kg
+"Asus Zenbook Pro 14 OLED UX6404VI 14.5"" Intel Core i9-13900H 2.6GHz ", Nvidia GeForce RTX 4070 Laptop , 32GB RAM , 1TB SSD,"14.5""",1.65kg
+"Dell Alienware M18 18"" QHD Plus Intel Core i9-13900HX 2.2GHz ", Nvidia GeForce RTX 4060 Laptop , 64GB RAM , 4TB SSD + 4TB SSD,"18""",4.04kg
+"HP ZBook Studio G10 16"" Intel Core i7-13800H 2.5GHz ", Nvidia RTX 2000 Ada Laptop , 32GB RAM , 1TB SSD,"16""",1.73kg
+"Dell Alienware m17 R5 17.3"" FHD AMD Ryzen 9 6900HX 3.3GHz ", Nvidia GeForce RTX 3080 Ti Laptop , 64GB RAM , 4TB SSD,"17.3""",3.3kg
+"Asus ROG Strix G17 (2023) 17.3"" WQHD AMD Ryzen 9 7945HX 2.5GHz ", Nvidia GeForce RTX 4060 Laptop , 32GB RAM , 2TB SSD,"17.3""",2.8kg
+"Asus ROG Flow X16 (2023) 16"" QHD Plus Intel Core i9-13900H 2.6GHz ", Nvidia GeForce RTX 4060 Laptop , 16GB RAM , 2TB SSD,"16""",2.2kg
+"Razer Blade 18 (2023) 18"" QHD Plus Intel Core i9-13950HX 2.2GHz ", Nvidia GeForce RTX 4070 Laptop , 32GB RAM , 1TB SSD,"18""",3.1kg
+"Asus ROG Zephyrus M16 (2023) 16"" QHD Plus Intel Core i9-13900H 2.6GHz ", Nvidia GeForce RTX 4070 Laptop , 64GB RAM , 2TB SSD,"16""",2.3kg
+"Dell Alienware X16 (2023) 16"" QHD Plus Intel Core i9-13900HK 2.6GHz ", Nvidia GeForce RTX 4090 Laptop , 32GB RAM , 4TB SSD,"16""",2.72kg
+"Asus ROG Zephyrus G14 (2023) 14"" QHD Plus AMD Ryzen 9 7940HS 4GHz ", Nvidia GeForce RTX 4080 Laptop , 32GB RAM , 1TB SSD,"14""",1.72kg
+"Samsung Galaxy Book4 Ultra 16"" Intel Core Ultra 7 155H 1.4GHz ", Nvidia GeForce RTX 4050 Laptop , 16GB RAM , 1TB SSD,"16""",1.86kg
+"Acer Predator Helios 3D 15 SpatialLabs Edition 15.6"" Intel Core i9-13900HX 2.2GHz ", Nvidia GeForce RTX 4080 Laptop , 32GB RAM , 2TB SSD,"15.6""",2.98kg
+"MSI CreatorPro Z16P B12UMST-089 16"" QHD Plus Intel Core i9-12900H 1.8GHz ", Nvidia RTX A5500 Laptop , 64GB RAM , 1TB SSD,"16""",2.38kg
+"MSI GE76 Raider 12UHS 239 17.3"" UHD Intel Core i9-12900HK 2.5GHz ", Nvidia GeForce RTX 3080 Ti Laptop , 64GB RAM , 2TB SSD + 1TB SSD,"17.3""",2.9kg
+"Dell Alienware m18 R2 18"" QHD Plus Intel Core i9-14900HX 2.2GHz ", Nvidia GeForce RTX 4070 Laptop , 64GB RAM , 4TB SSD + 4TB SSD,"18""",4.23kg
+"Dell Alienware m18 R2 18"" QHD Plus Intel Core i7-14650HX 2.2GHz ", Nvidia GeForce RTX 4060 Laptop , 64GB RAM , 4TB SSD + 4TB SSD,"18""",4.23kg
+"Apple MacBook Pro (2023) 16"" Apple M2 Max 12-core ", 96GB RAM , 8TB SSD,,"16.2""",2.15kg
+"Razer Blade 15 (2022) 15.6"" FHD Intel Core i7-12800H 1.8GHz ", Nvidia GeForce RTX 3080 Ti Laptop , 32GB RAM , 1TB SSD,"15.6""",2kg
+"Razer Blade 16 (2023) 16"" UHD Plus Intel Core i9-13950HX 2.2GHz ", Nvidia GeForce RTX 4070 Laptop , 32GB RAM , 1TB SSD,"16""",2.45kg
+"Asus ROG Strix G18 (2023) 18"" QHD Plus Intel Core i9-13980HX 2.2GHz ", Nvidia GeForce RTX 4060 Laptop , 32GB RAM , 2TB SSD,"18""",3kg
+"Dell Alienware m18 R2 18"" QHD Plus Intel Core i9-14900HX 2.2GHz ", Nvidia GeForce RTX 4060 Laptop , 64GB RAM , 4TB SSD + 4TB SSD,"18""",4.23kg
+"Asus ROG Strix Scar 16 (2023) 16"" QHD Plus Intel Core i9-13980HX 2.2GHz ", Nvidia GeForce RTX 4080 Laptop , 64GB RAM , 2TB SSD + 2TB SSD,"16""",2.6kg
+"Dell Alienware M18 18"" QHD Plus Intel Core i7-13700HX 2.1GHz ", Nvidia GeForce RTX 4070 Laptop , 64GB RAM , 4TB SSD + 4TB SSD,"18""",4.04kg
+"Asus ROG Zephyrus G16 (2023) 16"" QHD Plus Intel Core i7-12700H 2.3GHz ", Nvidia GeForce RTX 4070 Laptop , 32GB RAM , 2TB SSD,"16""",2kg
+"Asus ROG Zephyrus G16 (2023) 16"" QHD Plus Intel Core i9-13900H 2.6GHz ", Nvidia GeForce RTX 4070 Laptop , 32GB RAM , 2TB SSD,"16""",2kg
+"Asus ROG Strix G17 (2023) 17.3"" WQHD AMD Ryzen 9 7945HX 2.5GHz ", Nvidia GeForce RTX 4050 Laptop , 32GB RAM , 2TB SSD,"17.3""",2.8kg
+"HP Omen Transcend 16-u1008np 16"" Intel Core i9-14900HX 2.2GHz ", Nvidia GeForce RTX 4070 Laptop , 32GB RAM , 1TB SSD,"16""",2.24kg
+"Asus ROG Flow X16 (2022) GV601 16"" QHD Plus AMD Ryzen 9 6900HS 3.3GHz ", Nvidia GeForce RTX 3070 Ti Laptop , 64GB RAM , 2TB SSD,"16""",2.1kg
+"Asus ROG Flow X16 (2023) 16"" QHD Plus Intel Core i9-13900H 2.6GHz ", Nvidia GeForce RTX 4050 Laptop , 16GB RAM , 2TB SSD,"16""",2.2kg
+"Razer Blade 16 (2023) 16"" QHD Plus Intel Core i9-13950HX 2.2GHz ", Nvidia GeForce RTX 4060 Laptop , 16GB RAM , 1TB SSD,"16""",2.45kg
+MSI Prestige 16 AI Evo B1MG UHD+ Intel Core Ultra 7 155H 1.4GHz , 32GB RAM , 2TB SSD,,"16""",1.59kg
+"Asus ROG Strix G16 (2023) 16"" QHD Plus Intel Core i9-13980HX 2.2GHz ", Nvidia GeForce RTX 4070 Laptop , 32GB RAM , 2TB SSD,"16""",2.5kg
+"Asus ProArt StudioBook 16 3D OLED H7604JI 16"" Intel Core i9-13980HX 2.2GHz ", Nvidia GeForce RTX 4070 Laptop , 64GB RAM , 4TB SSD + 4TB SSD,"16""",2.4kg
+"Asus ROG Strix G16 (2023) 16"" QHD Plus Intel Core i9-13980HX 2.2GHz ", Nvidia GeForce RTX 4060 Laptop , 32GB RAM , 2TB SSD,"16""",2.5kg
+"Lenovo ThinkPad X1 Yoga Gen 7 14"" WQUXGA OLED Intel Core i7-1270P 2.2GHz ", 32GB RAM , 2TB SSD,,"14""",1.38kg
+"Dell Alienware M16 16"" QHD Plus Intel Core i9-13900HX 2.2GHz ", Nvidia GeForce RTX 4070 Laptop , 64GB RAM , 4TB SSD + 4TB SSD,"16""",3.25kg
+"Asus ROG Zephyrus M16 (2022) GU603 16"" Intel Core i9-12900H 2.5GHz ", Nvidia GeForce RTX 3080 Ti Laptop , 16GB RAM , 2TB SSD,"16""",2kg
+"Razer Blade 18 (2023) 18"" QHD Plus Intel Core i9-13950HX 2.2GHz ", Nvidia GeForce RTX 4060 Laptop , 16GB RAM , 1TB SSD,"18""",3.1kg
+"HP Omen 17-ck1003np 17"" QHD Intel Core i9-12900HX 2.3GHz ", Nvidia GeForce RTX 3080 Ti Laptop , 32GB RAM , 1TB SSD,"17.3""",2.78kg
+"Gigabyte Aorus 17X AXF (2023) 17.3"" Intel Core i7-13700HX 2.1GHz ", Nvidia GeForce RTX 4080 Laptop , 16GB RAM , 1TB SSD,"17.3""",2.8kg
+"MSI Vector GP68HX 16"" QHD Plus Intel Core i9-13950HX 2.2GHz ", Nvidia GeForce RTX 4060 Laptop , 32GB RAM , 1TB SSD,"16""",2.67kg
+"Gigabyte AERO 16 YE5 16"" Intel Core i9-12900H 2.5GHz ", Nvidia GeForce RTX 3080 Ti Laptop , 32GB RAM , 2TB SSD,"16""",4.23kg
+"Asus ROG Strix G18 (2023) 18"" QHD Plus Intel Core i9-13980HX 2.2GHz ", Nvidia GeForce RTX 4050 Laptop , 32GB RAM , 2TB SSD,"18""",3kg
+"Asus ROG Zephyrus G16 (2023) 16"" QHD Plus Intel Core i7-12700H 2.3GHz ", Nvidia GeForce RTX 4060 Laptop , 32GB RAM , 2TB SSD,"16""",2kg
+"Asus ProArt StudioBook 16 OLED H7600ZX 16"" Intel Core i7-12700H 2.3GHz ", Nvidia GeForce RTX 3080 Ti Laptop , 32GB RAM , 1TB SSD + 1TB SSD,"16""",2.4kg
+"Lenovo ThinkPad X1 Yoga Gen 7 14"" WQUXGA OLED Intel Core i5-1240P 1.2GHz ", 16GB RAM , 2TB SSD,,"14""",1.38kg
+"Asus ROG Zephyrus G16 (2023) 16"" QHD Plus Intel Core i9-13900H 2.6GHz ", Nvidia GeForce RTX 4060 Laptop , 32GB RAM , 2TB SSD,"16""",2kg
+"Asus ROG Strix Scar 15 (2022) G533 15.6"" Intel Core i9-12900H 2.5GHz ", Nvidia GeForce RTX 3080 Ti Laptop , 64GB RAM , 2TB SSD,"15.6""",2.3kg
+"MSI GS77 Stealth 12UHS-040 17.3"" UHD Intel Core i9-12900H 1.8GHz ", Nvidia GeForce RTX 3080 Ti Laptop , 32GB RAM , 1TB SDD,"17.3""",2.8kg
+"HP Spectre x360 2-in-1 16-f2097nr 16"" Intel Core i7-1360P 2.2GHz ", Intel Arc A370M , 16GB RAM , 2TB SSD,"16""",2.15kg
+"HP ZBook Fury 16 G10 16"" Intel Core i7-13700HX 2.1GHz ", Nvidia RTX 2000 Ada Laptop , 32GB RAM , 1TB SSD,"16""",2.4kg
+"Asus ROG Strix Scar 17 (2022) G733 17.3"" Intel Core i9-12900H 2.5GHz ", Nvidia GeForce RTX 3080 Ti Laptop , 64GB RAM , 2TB SSD,"17.3""",2.9kg
+"Dell Alienware M16 16"" QHD Plus Intel Core i9-13900HX 2.2GHz ", Nvidia GeForce RTX 4060 Laptop , 64GB RAM , 4TB SSD + 4TB SSD,"16""",3.25kg
+"Lenovo ThinkPad X1 Yoga Gen 7 14"" WQUXGA OLED Intel Core i5-1250P 1.7GHz ", 16GB RAM , 2TB SSD,,"14""",1.38kg
+"HP Omen 17-ck2001np 17"" QHD Intel Core i7-13700HX 2.1GHz ", Nvidia GeForce RTX 4080 Laptop , 32GB RAM , 1TB SSD,"17.3""",2.78kg
+"MSI Creator Z17 A12UGST 049 17"" QHD+ Intel Core i7-12700H 2.3GHz ", Nvidia GeForce RTX 3070 Ti Laptop , 64GB RAM , 2TB SSD + 2TB SSD,"17""",2.49kg
+Dell Alienware X17 R1 Intel Core i7-11800H 2.3GHz , Nvidia GeForce RTX 3080 Laptop , 32GB RAM , 512GB SSD,"17.3""",3.2kg
+"Dell Alienware x17 R2 (2022) 17.3"" UHD Intel Core i7-12700H 2.3GHz ", Nvidia GeForce RTX 3070 Ti Laptop , 64GB RAM , 2TB SSD + 2TB SSD,"17.3""",2.69kg
+"MSI Vector GP68HX 16"" FHD Plus Intel Core i9-12900H 2.5GHz ", Nvidia GeForce RTX 4080 Laptop , 64GB RAM , 2TB SSD,"16""",2.67kg
+"Dell Alienware M18 18"" QHD Plus Intel Core i7-13700HX 2.1GHz ", Nvidia GeForce RTX 4060 Laptop , 64GB RAM , 4TB SSD + 4TB SSD,"18""",4.04kg
+"Razer Blade 17 (2022) 17.3"" FHD Intel Core i7-12800H 1.8GHz ", Nvidia GeForce RTX 3070 Ti Laptop , 16GB RAM , 1TB SSD,"17.3""",2.75kg
+"Razer Blade 17 (2022) 17.3"" QHD Intel Core i7-12800H 1.8GHz ", Nvidia GeForce RTX 3080 Ti Laptop , 32GB RAM , 1TB SSD,"17.3""",2.75kg
+"Asus ROG Strix G16 (2023) 16"" QHD Plus Intel Core i9-13980HX 2.2GHz ", Nvidia GeForce RTX 4050 Laptop , 32GB RAM , 2TB SSD,"16""",2.5kg
+"Acer Predator Helios 18 PH18-71-940Q 18"" Intel Core i9-13900HX 2.2GHz ", Nvidia GeForce RTX 4080 Laptop , 32GB RAM , 1TB SSD,"18""",3.4kg
+"Lenovo ThinkPad X1 Yoga Gen 7 14"" WQUXGA OLED Intel Core i5-1245U 1.6GHz ", 32GB RAM , 2TB SSD,,"14""",1.38kg
+"Microsoft Surface Laptop Studio 2 14.4"" Intel Core i7-13700H 2.4GHz ", Nvidia GeForce RTX 4060 Laptop , 64GB RAM , 2TB SSD,"14.4""",1.98kg
+"Asus ROG Flow X16 (2022) GV601 16"" QHD Plus AMD Ryzen 9 6900HS 3.3GHz ", Nvidia GeForce RTX 3060 Laptop , 64GB RAM , 2TB SSD,"16""",2.1kg
+"Gigabyte AERO 16 YE5 16"" Intel Core i9-12900HK 2.5GHz ", Nvidia GeForce RTX 3080 Ti Laptop , 16GB RAM , 2TB SSD,"16""",4.23kg
+"Asus ROG Zephyrus G16 (2023) 16"" QHD Plus Intel Core i7-12700H 2.3GHz ", Nvidia GeForce RTX 4050 Laptop , 32GB RAM , 2TB SSD,"16""",2kg
+"MSI GS77 Stealth 12UHS-083 17.3"" QHD Intel Core i7-12700H 1.7GHz ", Nvidia GeForce RTX 3080 Ti Laptop , 32GB RAM , 1TB SSD,"17.3""",2.8kg
+"Asus ROG Zephyrus G16 (2023) 16"" QHD Plus Intel Core i9-13900H 2.6GHz ", Nvidia GeForce RTX 4050 Laptop , 32GB RAM , 2TB SSD,"16""",2kg
+"MSI WS66 11UM-214RU 15.6"" UHD Intel Core i9-11900H 2.5GHz ", Nvidia RTX A5000 16GB Laptop , 32GB RAM , 1TB SSD,"15.6""",2.1kg
+"Asus ROG Zephyrus G15 (2022) GA503RW 15.6"" AMD Ryzen 9 6900HS 3.3GHz ", Nvidia GeForce RTX 3070 Ti Laptop , 40GB RAM , 8TB SSD + 8TB SSD,"15.6""",1.9kg
+"Asus ROG Strix Scar 17 (2022) G733 17.3"" Intel Core i9-12900H 2.5GHz ", Nvidia GeForce RTX 3080 Laptop , 64GB RAM , 2TB SSD,"17.3""",2.9kg
+"Dell Alienware X16 16"" QHD Plus Intel Core i9-13900HK 2.6GHz ", Nvidia GeForce RTX 4080 Laptop , 32GB RAM , 4TB SSD,"16""",2.57kg
+Acer Predator Helios 16 (2023) Intel Core i9-13900HX 2.2GHz , Nvidia GeForce RTX 4070 Laptop , 16GB RAM , 1TB SSD,"16""",2.6kg
+"Dell Alienware m17 R5 17.3"" FHD AMD Ryzen 9 6900HX 3.3GHz ", Nvidia GeForce RTX 3070 Ti Laptop , 64GB RAM , 4TB SSD,"17.3""",3.3kg
+"Dell Alienware m15 R7 (2022) 15.6"" QHD Intel Core i7-12700H 2.3GHz ", Nvidia GeForce RTX 3080 Ti Laptop , 64GB RAM , 2TB SSD + 2TB SSD,"15.6""",2.69kg
+"HP Omen 17-ck1010np 17"" QHD Intel Core i9-12900H 2.5GHz ", Nvidia GeForce RTX 3080 Ti Laptop , 32GB RAM , 1TB SSD,"17.3""",2.78kg
+"Asus ROG Strix Scar 17 SE (2022) G733 17.3"" WQHD Intel Core i9-12950HX 2.3GHz ", Nvidia GeForce RTX 3080 Ti Laptop , 64GB RAM , 2TB SSD + 2TB SSD,"17.3""",3kg
+"Asus ROG Flow Z13 (2023) 13.4"" QHD Plus Intel Core i9-13900H 2.6GHz ", Nvidia GeForce RTX 4060 Laptop , 16GB RAM , 1TB SSD,"13.4""",1.18kg
+Razer Blade 14 (2022) QHD AMD Ryzen 9 6900HX 3.3GHz , Nvidia GeForce RTX 3080 Ti Laptop , 16GB RAM , 1TB SSD,"14""",1.78kg
+"Razer Blade 17 (2022) 17.3"" FHD Intel Core i7-12800H 1.8GHz ", Nvidia GeForce RTX 3080 Ti Laptop , 32GB RAM , 1TB SSD,"17.3""",2.75kg
+"Acer ConceptD 5 (2023) 16"" Intel Core i7-12700H 2.3GHz ", Nvidia GeForce RTX 3070 Ti Laptop , 32GB RAM , 1TB SSD,"16""",2.4kg
+"Dell Alienware x15 R2 (2022) 15.6"" QHD Intel Core i9-12900H 2.5GHz ", Nvidia GeForce RTX 3080 Ti Laptop , 32GB RAM , 2TB SSD + 2TB SSD,"15.6""",2.35kg
+Razer Blade 17 FHD Intel Core i7-11800H 2.3GHz , Nvidia GeForce RTX 3080 Laptop , 32GB RAM , 1TB SSD,"17.3""",2.75kg
+"MSI CreatorPro Z17 A12UKST-203ES 17"" QHD Plus Intel Core i7-12700H 1.7GHz ", Nvidia RTX A3000 Laptop , 32GB RAM , 1TB SSD,"17""",2.49kg
+"Asus ROG Strix Scar 15 (2022) G533 15.6"" Intel Core i9-12900H 2.5GHz ", Nvidia GeForce RTX 3080 Laptop , 64GB RAM , 2TB SSD,"15.6""",2.3kg
+"HP Omen Transcend 14-fb0097nr 14"" Intel Core Ultra 9 185H 2.3GHz ", Nvidia GeForce RTX 4070 Laptop , 32GB RAM , 2TB SSD,"14""",1.63kg
+"Lenovo ThinkPad P16v Gen 1 16"" AMD Ryzen 9 Pro 7940HS 4GHz ", Nvidia RTX 2000 Ada Laptop , 64GB RAM , 2TB SSD + 2TB SSD,"16""",2.2kg
+"Samsung Galaxy Book4 Pro 360 16"" Intel Core Ultra 7 155H 1.4GHz ", 16GB RAM , 1TB SSD,,"16""",1.66kg
+"Razer Blade 15 (2022) 15.6"" QHD Intel Core i7-12800H 1.8GHz ", Nvidia GeForce RTX 3080 Ti Laptop , 32GB RAM , 1TB SSD,"15.6""",2kg
+"MSI GT77 Titan 12UGS-009 17.3"" UHD Intel Core i7-12800HX 1.5GHz ", Nvidia GeForce RTX 3070 Ti Laptop , 32GB RAM , 1TB SSD,"17.3""",3.3kg
+"MSI GS77 Stealth 12UGS-084 17.3"" QHD Intel Core i9-12900H 1.8GHz ", Nvidia GeForce RTX 3070 Ti Laptop , 32GB RAM , 1TB SSD,"17.3""",2.8kg
+"Apple MacBook Pro (2023) 16"" Apple M3 Max (16-core CPU ", 40-core GPU) , 128GB RAM , 8TB SSD,"16.2""",2.16kg
+"Dell Alienware x17 R2 (2022) 17.3"" UHD Intel Core i7-12700H 2.3GHz ", Nvidia GeForce RTX 3060 Laptop , 64GB RAM , 2TB SSD + 2TB SSD,"17.3""",3.03kg
+"MSI Creator Z17 A12UHT 048 17"" QHD+ Intel Core i9-12900H 2.5GHz ", Nvidia GeForce RTX 3080 Laptop , 64GB RAM , 2TB SSD + 2TB SSD,"17""",2.49kg
+Dell XPS 15 9520 Intel Core i9-12900HK 2.5GHz , Nvidia GeForce RTX 3050 Ti Laptop , 32GB RAM , 1TB SSD,"15.6""",2.1kg
+"Asus ROG Zephyrus G14 (2023) 14"" QHD Plus AMD Ryzen 9 7940HS 4GHz ", Nvidia GeForce RTX 4070 Laptop , 32GB RAM , 1TB SSD,"14""",1.72kg
+"Samsung Galaxy Book3 Ultra 16"" Intel Core i9-13900H 2.6GHz ", Nvidia GeForce RTX 4070 Laptop , 32GB RAM , 1TB SSD,"16""",1.79kg
+"MSI Vector GP68HX 16"" QHD Plus Intel Core i7-13700HX 2.1GHz ", Nvidia GeForce RTX 4070 Laptop , 32GB RAM , 1TB SSD,"16""",2.67kg
+"Dell Alienware M16 16"" QHD Plus Intel Core i7-13700HX 2.1GHz ", Nvidia GeForce RTX 4070 Laptop , 64GB RAM , 4TB SSD + 4TB SSD,"16""",3.25kg
+"Dell Alienware x17 R2 17.3"" FHD Intel Core i7-12700H ", Nvidia GeForce RTX 3060 Laptop , 64GB RAM , 2TB SSD,"17.3""",3.2kg
+"Dell Alienware m16 R2 (2024) 16"" QHD Plus Intel Core Ultra 7 155H 1.4 GHz ", Nvidia GeForce RTX 4070 Laptop , 16GB RAM , 1TB SSD,"16""",2.61kg
+"Lenovo ThinkPad P16v Gen 1 16"" AMD Ryzen 7 Pro 7840HS 3.8GHz ", Nvidia RTX A500 Laptop , 64GB RAM , 2TB SSD + 2TB SSD,"16""",2.2kg
+"Asus ROG Flow X16 (2022) GV601 16"" QHD Plus AMD Ryzen 9 6900HS 3.3GHz ", Nvidia GeForce RTX 3050 Ti Laptop , 64GB RAM , 1TB SSD,"16""",2.1kg
+"Dell XPS 17 9720 UHD Plus 17"" Intel Core i7-12700H 2.3GHz ", Nvidia GeForce RTX 3060 Laptop , 64GB RAM , 2TB SSD,"17""",2.17kg
+"Asus ROG Flow Z13 (2023) 13.4"" QHD Plus Intel Core i9-13900H 2.6GHz ", Nvidia GeForce RTX 4050 Laptop , 16GB RAM , 1TB SSD,"13.4""",1.18kg
+"Asus ROG Flow Z13 (2022) GZ301 13.4"" Intel Core i9-12900H 2.5GHz ", Nvidia GeForce RTX 3050 Ti Laptop , 16GB RAM , 1TB SSD,"13.4""",1.18kg
+"Asus ROG Flow X13 (2023) 13.4"" QHD Plus AMD Ryzen 9 7940HS 4GHz ", Nvidia GeForce RTX 4070 Laptop , 32GB RAM , 1TB SSD,"13.4""",1.3kg
+"Asus ROG Zephyrus M16 (2022) GU603 16"" Intel Core i9-12900H 2.5GHz ", Nvidia GeForce RTX 3070 Ti Laptop , 16GB RAM , 2TB SSD,"16""",2kg
+"Asus ROG Zephyrus Duo 16 (2022) GX650 16"" AMD Ryzen 9 6900HX 3.3GHz ", Nvidia GeForce RTX 3060 Laptop , 32GB RAM , 2TB SSD + 2TB SSD,"16""",2.55kg
+"Asus ROG Zephyrus G14 (2023) 14"" QHD Plus AMD Ryzen 9 7940HS 4GHz ", Nvidia GeForce RTX 4060 Laptop , 32GB RAM , 1TB SSD,"14""",1.72kg
+"HP ZBook Power G10 A 15.6"" AMD Ryzen 9 Pro 7940HS 4GHz ", Nvidia RTX 2000 Ada Laptop , 32GB RAM , 1TB SSD,"15.6""",2kg
+Asus ROG Zephyrus Duo 15 SE GX551 AMD Ryzen 9 5900HX 3.3GHz , Nvidia GeForce RTX 3080 Laptop , 16GB RAM , 1TB + 1TB SSD,"15.6""",2.48kg
+"Dell Alienware M16 16"" QHD Plus Intel Core i7-13700HX 2.1GHz ", Nvidia GeForce RTX 4060 Laptop , 64GB RAM , 4TB SSD + 4TB SSD,"16""",3.25kg
+"Apple MacBook Pro (2023) 14"" Apple M2 Max 12-core ", 96GB RAM , 8TB SSD,,"14.2""",1.63kg
+"Microsoft Surface Laptop Studio 2 14.4"" Intel Core i7-13700H 2.4GHz ", Nvidia GeForce RTX 4050 Laptop , 32GB RAM , 1TB SSD,"14.4""",1.98kg
+"Dell Alienware m16 R2 (2024) 16"" QHD Plus Intel Core Ultra 7 155H 1.4 GHz ", Nvidia GeForce RTX 4060 Laptop , 16GB RAM , 1TB SSD,"16""",2.61kg
+Razer Blade 17 4K Touch Intel Core i9-11900H 2.5GHz , Nvidia GeForce RTX 3080 Laptop , 32GB RAM , 1TB SSD,"17.3""",2.75kg
+"Asus ROG Zephyrus G14 (2023) 14"" QHD Plus AMD Ryzen 7 7735HS 3.2GHz ", Nvidia GeForce RTX 4070 Laptop , 32GB RAM , 1TB SSD,"14""",1.72kg
+"Asus ROG Strix G16 (2023) 16"" QHD Plus Intel Core i9-13980HX 2.2GHz ", Nvidia GeForce RTX 3050 Laptop , 32GB RAM , 2TB SSD,"16""",2.5kg
+"Samsung Galaxy Book4 Pro 16"" Intel Core Ultra 7 155H 1.4GHz ", 32GB RAM , 1TB SSD,,"16""",1.56kg
+"MSI GE66 Raider 12UGS 093 15.6"" FHD Intel Core i7-12700H 2.3GHz ", Nvidia GeForce RTX 3070 Ti Laptop , 16GB RAM , 1TB SSD,"15.6""",2.38kg
+Gigabyte Aero 15 OLED Intel Core i7-11800H 2.3GHz , Nvidia GeForce RTX 3080 Laptop , 64GB RAM , 2TB SSD + 2TB SSD,"15.6""",2kg
+"Samsung Galaxy Book4 Pro 14"" Intel Core Ultra 7 155H 1.4GHz ", 32GB RAM , 1TB SSD,,"14""",1.23kg
+Razer Blade 14 (2022) QHD AMD Ryzen 9 6900HX 3.3GHz , Nvidia GeForce RTX 3070 Ti Laptop , 16GB RAM , 1TB SSD,"14""",1.78kg
+"Asus Zenbook Pro 15 Flip OLED UP6502ZA 15.6"" Intel Core i7-12700H 2.3GHz ", 16GB RAM , 1TB SSD,,"15.6""",1.8kg
+"MSI GS66 Stealth 15.6"" Intel Core i9-10980HK 2.4GHz ", Nvidia GeForce RTX 3080 Laptop , 32GB RAM , 1TB SSD,"15.6""",2.1kg
+"MSI CreatorPro X17 A12UKS-059 17.3"" UHD Intel Core i9-12900HX 2.3GHz ", Nvidia RTX A3000 Laptop , 32GB RAM , 1TB SSD,"17.3""",3.3kg
+"Asus ROG Strix Scar 17 (2022) G733 17.3"" Intel Core i9-12900H 2.5GHz ", Nvidia GeForce RTX 3070 Ti Laptop , 64GB RAM , 2TB SSD,"17.3""",2.9kg
+"Asus ProArt StudioBook 16 OLED H7600ZW 16"" Intel Core i7-12700H 2.3GHz ", Nvidia GeForce RTX 3070 Ti Laptop , 16GB RAM , 1TB SSD + 1TB SSD,"16""",2.4kg
+"Asus ROG Zephyrus G14 (2022) GA402RK 14"" AMD Ryzen 9 6900HS 3.3GHz ", AMD Radeon RX 6800S , 48GB RAM , 8TB SSD,"14""",1.72kg
+"Lenovo ThinkPad Z16 16"" AMD Ryzen 7 Pro 6850H 3.2GHz ", AMD Radeon RX 6500M , 32GB RAM , 2TB SSD,"16""",1.95kg
+"Lenovo ThinkBook 16p Gen 4 16"" WQXGA Intel Core i9-13900H 2.6GHz ", Nvidia GeForce RTX 4060 Laptop , 32GB RAM , 1TB SSD,"16""",2.2kg
+"Lenovo Legion 5 Pro 16"" QHD AMD Ryzen 9 6900HX 3.3GHz ", Nvidia GeForce RTX 3070 Ti Laptop , 64GB RAM , 1TB SSD,"16""",2.49kg
+"Dell Alienware x15 R2 (2022) 15.6"" QHD Intel Core i7-12700H 2.3GHz ", Nvidia GeForce RTX 3070 Ti Laptop , 32GB RAM , 2TB SSD + 2TB SSD,"15.6""",2.35kg
+"MSI CreatorPro Z16P B12UKST-095ES 16"" QHD Plus Intel Core i9-12900H 2.5GHz ", Nvidia RTX A3000 Laptop , 32GB RAM , 2TB SSD,"16""",2.39kg
+"Lenovo ThinkPad X1 Carbon Gen 12 14"" OLED Intel Core Ultra 7 155H 1.4GHz ", 32GB RAM , 1TB SSD,,"14""",1.12kg
+"Asus ROG Zephyrus G14 (2023) 14"" QHD Plus AMD Ryzen 7 7735HS 3.2GHz ", Nvidia GeForce RTX 4060 Laptop , 32GB RAM , 1TB SSD,"14""",1.72kg
+"Razer Blade 15 (2022) 15.6"" QHD Intel Core i7-12800H 1.8GHz ", Nvidia GeForce RTX 3070 Ti Laptop , 16GB RAM , 1TB SSD,"15.6""",2kg
+"Asus ROG Zephyrus G14 (2023) 14"" QHD Plus AMD Ryzen 9 7940HS 4GHz ", Nvidia GeForce RTX 4050 Laptop , 32GB RAM , 1TB SSD,"14""",1.72kg
+"Lenovo Legion 5i Pro 16"" WQXGA Intel Core i7-12700H 2.3GHz ", Nvidia GeForce RTX 3070 Laptop , 32GB RAM , 1TB SSD,"16""",2.49kg
+"Asus ROG Strix Scar 15 (2022) G533 15.6"" Intel Core i9-12900H 2.5GHz ", Nvidia GeForce RTX 3070 Ti Laptop , 64GB RAM , 2TB SSD,"15.6""",2.3kg
+"Dell Alienware m15 R7 (2022) 15.6"" QHD Intel Core i7-12700H 2.3GHz ", Nvidia GeForce RTX 3070 Ti Laptop , 64GB RAM , 2TB SSD + 2TB SSD,"15.6""",2.69kg
+"MSI GS77 Stealth 12UGS-041 17.3"" QHD Intel Core i7-12700H 1.7GHz ", Nvidia GeForce RTX 3070 Ti Laptop , 32GB RAM , 1TB SSD,"17.3""",2.8kg
+"Lenovo ThinkPad P16v Gen 1 16"" AMD Ryzen 7 Pro 7840HS 3.8GHz ", Nvidia RTX A1000 Laptop , 64GB RAM , 2TB SSD + 2TB SSD,"16""",2.2kg
+"Samsung Galaxy Book4 Pro 16"" Intel Core Ultra 5 125H 1.2GHz ", 16GB RAM , 512GB SSD,,"16""",1.56kg
+"Asus ROG Flow X13 (2023) 13.4"" QHD Plus AMD Ryzen 9 7940HS 4GHz ", Nvidia GeForce RTX 4060 Laptop , 16GB RAM , 1TB SSD,"13.4""",1.3kg
+"Asus ROG Flow X13 (2022) GV301 13.4"" AMD Ryzen 9 6900HS 3.3GHz ", Nvidia GeForce RTX 3050 Ti Laptop , 32GB RAM , 1TB SSD,"13.4""",1.3kg
+"Asus ProArt StudioBook Pro 16 OLED W7600Z3A 16"" Intel Core i9-12900H 2.5GHz ", Nvidia RTX A3000 12GB Laptop , 32GB RAM , 1TB SSD + 1TB SSD,"16""",2.4kg
+"Dell Inspiron 16 Plus 7630 16"" Intel Core i7-13620H 2.4GHz ", Nvidia GeForce RTX 4060 Laptop , 32GB RAM , 2TB SSD,"16""",2.06kg
+"Asus ROG Strix G17 (2022) G713 17.3"" WQHD AMD Ryzen 9 6900HX 3.3GHz ", Nvidia GeForce RTX 3080 Laptop , 16GB RAM , 1TB SSD,"17.3""",2.9kg
+"Samsung Galaxy Book4 Pro 14"" Intel Core Ultra 5 125H 1.2GHz ", 16GB RAM , 512GB SSD,,"14""",1.23kg
+"Asus ROG Strix G15 (2022) G513 15.6"" WQHD AMD Ryzen 9 6900HX 3.3GHz ", Nvidia GeForce RTX 3080 Laptop , 32GB RAM , 1TB SSD,"15.6""",2.3kg
+"Dell Latitude 7330 Rugged Extreme FHD 13"" Intel Core i7-1185G7 3GHz ", 32GB RAM , 2TB SSD,,"13.3""",2.32kg
+"Lenovo Legion 5i Pro 16"" WQXGA Intel Core i9-12900H 2.5GHz ", Nvidia GeForce RTX 3070 Laptop , 32GB RAM , 1TB SSD,"16""",2.49kg
+"Gigabyte AERO 16 XE5 16"" Intel Core i7-12700H 2.3GHz ", Nvidia GeForce RTX 3070 Ti Laptop , 32GB RAM , 2TB SSD,"16""",4.23kg
+"Asus ROG Flow X13 (2022) GV301 13.4"" AMD Ryzen 9 6900HS 3.3GHz ", Nvidia GeForce RTX 3050 Laptop , 32GB RAM , 1TB SSD,"13.4""",1.3kg
+"Razer Blade 17 (2022) 17.3"" QHD Intel Core i7-12800H 1.8GHz ", Nvidia GeForce RTX 3070 Ti Laptop , 16GB RAM , 1TB SSD,"17.3""",2.75kg
+"Dell Alienware m17 R5 17.3"" FHD AMD Ryzen 7 6800H 3.2GHz ", Nvidia GeForce RTX 3070 Ti Laptop , 32GB RAM , 1TB SSD,"17.3""",3.3kg
+"Dell Alienware x15 R2 (2022) 15.6"" QHD Intel Core i7-12700H 2.3GHz ", Nvidia GeForce RTX 3080 Ti Laptop , 32GB RAM , 2TB SSD + 2TB SSD,"15.6""",2.35kg
+"Lenovo ThinkBook 16p Gen 4 16"" WQXGQ Intel Core i7-13700H 2.4GHz ", Nvidia GeForce RTX 4060 Laptop , 32GB RAM , 1TB SSD,"16""",2.2kg
+"MSI Creator Z16P B12UGST 042 16"" QHD+ Intel Core i7-12700H 2.3GHz ", Nvidia GeForce RTX 3070 Ti Laptop , 64GB RAM , 2TB SSD + 2TB SSD,"16""",2.39kg
+"Lenovo Legion Pro 7 16"" AMD Ryzen 9 7945HX 2.5GHz ", Nvidia GeForce RTX 4080 Laptop , 32GB RAM , 1TB SSD,"16""",2.65kg
+"Asus ROG Strix Scar 17 SE (2022) G733 17.3"" WQHD Intel Core i9-12950HX 2.3GHz ", Nvidia GeForce RTX 3070 Ti Laptop , 64GB RAM , 2TB SSD + 2TB SSD,"17.3""",2.9kg
+"Asus TUF Gaming F15 (2023) 15.6"" FHD Intel Core i7-12700H 2.3GHz ", Nvidia GeForce RTX 4060 Laptop , 64GB RAM , 16TB SSD,"15.6""",2.2kg
+"Acer Predator Triton 500 SE 16"" (2022) Intel Core i7-11800H 2.4GHz ", Nvidia GeForce RTX 3080 Laptop , 16GB RAM , 1TB SSD,"16""",2.45kg
+"Asus TUF Gaming A16 Advantage Edition (2023) 16"" FHD Plus AMD Ryzen 9 7940HS 4GHz ", AMD Radeon RX 7600S , 16GB RAM , 2TB SSD,"16""",2.2kg
+"Microsoft Surface Laptop Studio 2 14.4"" Intel Core i7-13700H 2.4GHz ", Nvidia RTX 2000 Ada Laptop , 32GB RAM , 1TB SSD,"14.4""",1.98kg
+"Acer Predator Triton 500 SE 16"" (2022) Intel Core i9-11900H 2.5GHz ", Nvidia GeForce RTX 3080 Laptop , 32GB RAM , 512GB SSD + 512GB SSD,"16""",2.45kg
+"Asus ROG Zephyrus G14 (2023) 14"" QHD Plus AMD Ryzen 7 7735HS 3.2GHz ", Nvidia GeForce RTX 4050 Laptop , 32GB RAM , 1TB SSD,"14""",1.72kg
+"ASUS Zenbook Pro 14 Duo OLED (UX8402) 14.5"" Intel Core i7-12700H 2.3GHz ", 32GB RAM , 1TB SSD,,"14.5""",1.7kg
+"Gigabyte AERO 16 YE4 16"" Intel Core i9-12900H 2.5GHz ", Nvidia GeForce RTX 3080 Ti Laptop , 32GB RAM , 2TB SSD,"16""",4.23kg
+"MSI Summit E16 Flip A12UDT-007 16"" QHD+ Intel Core i7-1260P 1.5GHz ", Nvidia GeForce RTX 3050 Ti Laptop , 16GB RAM , 2TB SSD,"16""",2.1kg
+"Asus ROG Zephyrus S17 (2021) GX703 17.3"" UHD Intel Core i9-11900H 2.5GHz ", Nvidia GeForce RTX 3070 Laptop , 32GB RAM , 1TB SSD,"17.3""",2.6kg
+"Asus ROG Strix G17 (2022) G713 17.3"" WQHD AMD Ryzen 9 6900HX 3.3GHz ", Nvidia GeForce RTX 3070 Ti Laptop , 32GB RAM , 1TB SSD,"17.3""",2.9kg
+"Razer Blade 15 Advanced Edition 15.6"" Intel Core i7-10875H 2.3GHz ", Nvidia GeForce RTX 3080 Laptop , 32GB RAM , 1TB SSD,"15.6""",2.08kg
+"Asus ProArt StudioBook 16 OLED H7600ZM 16"" Intel Core i7-12700H 2.3GHz ", Nvidia GeForce RTX 3060 Laptop , 32GB RAM , 1TB SSD,"16""",2.4kg
+"Lenovo ThinkBook 16p Gen 4 16"" WQXGQ Intel Core i5-13500H 2.6GHz ", Nvidia GeForce RTX 4060 Laptop , 32GB RAM , 1TB SSD,"16""",2.2kg
+Gigabyte Aero 15 OLED YD Intel Core i7-11800H 2.3GHz , Nvidia GeForce RTX 3080 Laptop , 64GB RAM , 2TB SSD + 2TB SSD,"15.6""",2kg
+"Gigabyte Aorus 17G YD 17.3"" Intel Core i7-11800H 2.3GHz ", Nvidia GeForce RTX 3080 Laptop , 32GB RAM , 512GB SSD,"17.3""",2.7kg
+"Asus ROG Zephyrus M16 (2022) GU603 16"" Intel Core i9-12900H 2.5GHz ", Nvidia GeForce RTX 3060 Laptop , 8GB RAM , 2TB SSD,"16""",2kg
+"Lenovo ThinkPad X1 Yoga Gen 6 14"" Intel Core i7-1185G7 3GHz ", 16GB RAM , 1TB SSD,,"14""",1.35kg
+"Asus TUF Gaming A16 Advantage Edition (2023) 16"" QHD Plus AMD Ryzen 9 7940HS 4GHz ", AMD Radeon RX 7700S , 16GB RAM , 2TB SSD,"16""",2.2kg
+"Asus ROG Flow X13 (2023) 13.4"" QHD Plus AMD Ryzen 9 7940HS 4GHz ", Nvidia GeForce RTX 4050 Laptop , 16GB RAM , 1TB SSD,"13.4""",1.3kg
+"Apple MacBook Pro (2023) 14"" Apple M3 Max ", 96GB RAM , 8TB SSD,,"14.2""",1.62kg
+"Asus ROG Strix Scar 17 (2022) G733 17.3"" Intel Core i9-12900H 2.5GHz ", Nvidia GeForce RTX 3060 Laptop , 64GB RAM , 2TB SSD,"17.3""",2.9kg
+Asus ROG Zephyrus G15 GA503 AMD Ryzen 9 5900HS 3GHz , Nvidia GeForce RTX 3080 Laptop , 16GB RAM , 1TB SSD,"15.6""",1.9kg
+"Asus ROG Strix Scar 15 (2022) G533 15.6"" Intel Core i9-12900H 2.5GHz ", Nvidia GeForce RTX 3060 Laptop , 64GB RAM , 2TB SSD,"15.6""",2.3kg
+"Dell Alienware M15 R4 15.6"" Intel Core i9-10980HK 2.4GHz ", Nvidia GeForce RTX 3080 8GB Laptop , 32GB RAM , 4TB SSD + 512GB SSD,"15.6""",2.5kg
+"HP ZBook Power G9 15.6"" Intel Core i7-12700H 2.3GHz ", Nvidia RTX A1000 Laptop , 16GB RAM , 512GB SSD,"15.6""",1.93kg
+Razer Blade 17 FHD Intel Core i7-11800H 2.3GHz , Nvidia GeForce RTX 3070 Laptop , 16GB RAM , 1TB SSD,"17.3""",2.75kg
+"Lenovo Legion 5 Pro 16"" QHD AMD Ryzen 7 6800H 3.2GHz ", Nvidia GeForce RTX 3070 Ti Laptop , 32GB RAM , 2TB SSD,"16""",2.49kg
+"HP Victus 16-s0097nr 16.1"" AMD Ryzen 7 7840HS 3.8GHz ", Nvidia GeForce RTX 4060 Laptop , 16GB RAM , 1TB SSD,"16.1""",2.34kg
+"Dell Latitude 7330 Rugged Extreme FHD 13"" Intel Core i5-1145G7 2.6GHz ", 32GB RAM , 2TB SSD,,"13.3""",2.32kg
+Asus ROG Zephyrus Duo 15 SE GX551 AMD Ryzen 9 5900HX 3.3GHz , Nvidia GeForce RTX 3070 Laptop , 16GB RAM , 1TB + 1TB SSD,"15.6""",2.48kg
+"Asus ROG Strix G15 (2022) G513 15.6"" WQHD AMD Ryzen 9 6900HX 3.3GHz ", Nvidia GeForce RTX 3070 Ti Laptop , 32GB RAM , 1TB SDD,"15.6""",2.3kg
+Asus ROG Strix Scar 15 AMD Ryzen 9 5900HX 3.3GHz , Nvidia GeForce RTX 3080 Laptop , 32GB RAM , 1TB SSD,"15.6""",2.3kg
+"Dell Alienware x15 R2 (2022) 15.6"" QHD Intel Core i7-12700H 2.3GHz ", Nvidia GeForce RTX 3060 Laptop , 32GB RAM , 2TB SSD + 2TB SSD,"15.6""",2.35kg
+"Lenovo Legion Pro 5 (2023) 16"" AMD Ryzen 7 7745HX 3.6GHz ", Nvidia GeForce RTX 4070 Laptop , 32GB RAM , 1TB SSD,"16""",32GB
+"Lenovo ThinkPad X1 Carbon Gen 10 14"" OLED Intel Core i7-1260P 2.1GHz ", 32GB RAM , 2TB SSD,,"14""",1.12kg
+"Lenovo Legion 5i Pro 16"" WQXGA Intel Core i7-12700H 2.3GHz ", Nvidia GeForce RTX 3060 Laptop , 32GB RAM , 1TB SSD,"16""",2.49kg
+"Lenovo ThinkPad X1 Nano Gen 2 13"" Intel Core i7-1280P 1.8GHz ", 32GB RAM , 1TB SSD,,"13""",989 g
+"Asus TUF Dash F15 (2022) 15.6"" FHD Intel Core i7-12650H 2.3GHz ", Nvidia GeForce RTX 3070 Laptop , 64GB RAM , 2TB SSD + 2TB SSD,"15.6""",2kg
+"Samsung Galaxy Book3 Ultra 16"" Intel Core i7-13700H 2.4GHz ", Nvidia GeForce RTX 4050 Laptop , 16GB RAM , 1TB SSD,"16""",1.79kg
+"Apple MacBook Pro (2023) 16"" Apple M3 Max ", 96GB RAM , 8TB SSD,,"16.2""",2.16kg
+"Lenovo ThinkPad X1 Nano Gen 2 13"" Intel Core i7-1260P 2.1GHz ", 16GB RAM , 1TB SSD,,"13""",989 g
+"Dell Inspiron 16 Plus 7630 16"" Intel Core i7-13620H 2.4GHz ", Nvidia GeForce RTX 4050 Laptop , 16GB RAM , 2TB SSD,"16""",2.06kg
+"HP Omen 17-ck1004np 17"" QHD Intel Core i7-12800HX 1.5GHz ", Nvidia GeForce RTX 3070 Ti Laptop , 32GB RAM , 1TB SSD,"17.3""",2.78kg
+"Apple MacBook Pro (2023) 16"" Apple M2 Pro 12-core ", 32GB RAM , 8TB SSD,,"16.2""",2.15kg
+"MSI GE76 Raider 12UGS 443 17.3"" QHD Intel Core i7-12700H 2.3GHz ", Nvidia GeForce RTX 3070 Ti Laptop , 32GB RAM , 1TB SSD + 1TB SSD,"17.3""",2.9kg
+"HP Omen Transcend 16-u0010np 16"" Intel Core i7-13700HX 2.1GHz ", Nvidia GeForce RTX 4050 Laptop , 16GB RAM , 1TB SSD,"16""",2.09kg
+Dell XPS 17 9720 Intel Core i7-12700H 2.3GHz , Nvidia GeForce RTX 3050 Laptop , 16GB RAM , 512GB SSD,"17""",2.57kg
+"Dell Alienware m15 R7 (2022) 15.6"" QHD Intel Core i7-12700H 2.3GHz ", Nvidia GeForce RTX 3060 Laptop , 64GB RAM , 2TB SSD + 2TB SSD,"15.6""",2.69kg
+"Lenovo ThinkBook 16p Gen 4 16"" WQXGQ Intel Core i5-13500H 2.6GHz ", Nvidia GeForce RTX 4050 Laptop , 32GB RAM , 1TB SSD,"16""",2.2kg
+"HP Omen 17-cm2000np 17"" Intel Core i7-13700HX 2.1GHz ", Nvidia GeForce RTX 4070 Laptop , 32GB RAM , 1TB SSD,"17.3""",2.78kg
+"Apple MacBook Pro (2023) 14"" Apple M3 Max (16-core CPU ", 40-core GPU) , 128GB RAM , 8TB SSD,"14.2""",1.62kg
+Dell XPS 15 9520 Intel Core i7-12700H 2.3GHz , Nvidia GeForce RTX 3050 Ti Laptop , 16GB RAM , 1TB SSD,"15.6""",1.96kg
+"Lenovo ThinkPad X1 Yoga Gen 6 14"" Intel Core i5-1135G7 2.4GHz ", 16GB RAM , 512GB SSD,,"14""",1.35kg
+"Asus TUF Gaming F15 (2023) 15.6"" FHD Intel Core i7-12700H 2.3GHz ", Nvidia GeForce RTX 4070 Laptop , 64GB RAM , 4TB SSD,"15.6""",2.2kg
+"HP ZBook Fury G8 15.6"" Intel Core i7-11850H 2.6GHz ", Nvidia RTX A2000 Laptop , 32GB RAM , 1TB SSD,"15.6""",2.35kg
+"Asus Zenbook Pro 15 Flip OLED UP6502ZA 15.6"" Intel Core i5-12500H 2.5GHz ", 16GB RAM , 1TB SSD,,"15.6""",1.8kg
+Asus ROG Strix Scar 17 G733 AMD Ryzen 9 5900HX 3.3GHz , Nvidia GeForce RTX 3080 Laptop , 32GB RAM , 1TB + 1TB SSD,"17.3""",2.4kg
+"Gigabyte Aorus 17G YC 17.3"" Intel Core i7-10870H 2.2GHz ", Nvidia GeForce RTX 3080 Laptop , 32GB RAM , 1TB SSD,"17.3""",2.77kg
+Gigabyte Aero 15 OLED YD Intel Core i9-10980HK 2.4GHz , Nvidia GeForce RTX 3080 Laptop , 32GB RAM , 512GB SSD + 1TB SSD,"15.6""",3.9kg
+"HP ZBook Firefly G10 A 14"" AMD Ryzen 7 Pro 7840HS 3.8GHz ", 32GB RAM , 1TB SSD,,"14""",1.4kg
+Acer Predator Triton 16 (2023) Intel Core i7-13700H 2.4GHz , Nvidia GeForce RTX 4070 Laptop , 16GB RAM , 1TB SSD,"16""",2.4kg
+"Lenovo ThinkPad X1 Yoga Gen 5 14"" Intel Core i5-10210U 1.6GHz ", 16GB RAM , 512GB SSD,,"14""",1.35kg
+"Acer Predator Helios 18 PH18-71-76B3 18"" Intel Core i7-13700HX 2.1GHz ", Nvidia GeForce RTX 4070 Laptop , 16GB RAM , 1TB SSD,"18""",3.4kg
+"Razer Blade 17 (2022) 17.3"" QHD Intel Core i7-12800H 1.8GHz ", Nvidia GeForce RTX 3060 Laptop , 16GB RAM , 1TB SSD,"17.3""",2.75kg
+"Dell G15 5530 (2023) 15.6"" FHD Intel Core i9-13900HX 2.2Ghz ", Nvidia GeForce RTX 4060 Laptop , 32GB RAM , 1TB SSD,"15.6""",2.65kg
+"MSI GS66 Stealth 15.6"" Intel Core i7-10870H 2.2GHz ", Nvidia GeForce RTX 3080 Laptop , 32GB RAM , 2TB SSD,"15.6""",2.1kg
+"HP Victus 16-S0015NT 16.1"" AMD Ryzen 7 7840HS 3.8GHz ", Nvidia GeForce RTX 4060 Laptop , 16GB RAM , 512GB SSD,"16.1""",2.33kg
+"Dell G16 7630 (2023) 16"" QHD Plus Intel Core i9-13900HX 2.2GHz ", Nvidia GeForce RTX 4070 Laptop , 32GB RAM , 1TB SSD,"16""",2.73kg
+"MSI GE76 Raider 12UGS 442 17.3"" QHD Intel Core i9-12900HK 2.5GHz ", Nvidia GeForce RTX 3070 Ti Laptop , 32GB RAM , 2TB SSD + 1TB SSD,"17.3""",2.9kg
+"Acer Predator Helios 18 PH18-71-756U 18"" Intel Core i7-13700HX 2.1GHz ", Nvidia GeForce RTX 4060 Laptop , 16GB RAM , 1TB SSD,"18""",3.4kg
+"Asus ROG Zephyrus M16 (2022) GU603 16"" Intel Core i9-12900H 2.5GHz ", Nvidia GeForce RTX 3050 Ti Laptop , 8GB RAM , 1TB SSD,"16""",2kg
+"MSI Creator Z16 A12UET 031US 16"" QHD+ Intel Core i7-12700H 2.3GHz ", Nvidia GeForce RTX 3060 Laptop , 64GB RAM , 2TB SSD + 2TB SSD,"16""",2.2kg
+"Acer Predator Triton 500 SE 16"" (2022) Intel Core i7-11800H 2.4GHz ", Nvidia GeForce RTX 3070 Laptop , 16GB RAM , 1TB SSD,"16""",2.45kg
+"Samsung Galaxy Book4 360 15.6"" Intel Core 7 150U 1.8GHz ", 16GB RAM , 1TB SSD,,"15.6""",1.46kg
+"Dell G15 5520 15.6"" FHD Intel Core i7-12700H 2.3Ghz ", Nvidia GeForce RTX 3070 Ti Laptop , 32GB RAM , 1TB SSD,"15.6""",2.81kg
+"Apple MacBook Pro (2023) 16"" Apple M2 Pro 10-core ", 32GB RAM , 8TB SSD,,"16.2""",2.15kg
+"MSI Prestige 16 A12UD-219XES 16"" QHD Plus Intel Core i7-1260P 2.1GHz ", Nvidia GeForce RTX 3050 Ti Laptop , 32GB RAM , 1TB SSD,"16""",2.1kg
+"Lenovo ThinkPad X1 Nano Gen 2 13"" Intel Core i5-1240P 1.2GHz ", 16GB RAM , 1TB SSD,,"13""",989 g
+Asus ROG Zephyrus Duo 15 SE GX551 AMD Ryzen 9 5900HX 3.3GHz , Nvidia GeForce RTX 3060 Laptop , 16GB RAM , 1TB + 1TB SSD,"15.6""",2.48kg
+"MSI GS66 Stealth 15.6"" Intel Core i7-10750H 2.6GHz ", Nvidia GeForce RTX 3080 Laptop , 32GB RAM , 1TB SSD,"15.6""",2.1kg
+XPG Xenia 15 KC Intel Core i7-11800H 2.3GHz , Nvidia GeForce RTX 3070 Laptop , 32GB RAM , 1TB SSD,"15.6""",1.94kg
+Dell Alienware X15 R1 Intel Core i9-11900H 2.5GHz , Nvidia GeForce RTX 3080 8GB Laptop , 32GB RAM , 4TB SSD,"15.6""",2.36kg
+"Apple MacBook Pro (2021) 16.2"" Apple M1 Max ", 32GB RAM , 1TB SSD,,"16.2""",2.2kg
+"MSI GS66 Stealth 15.6"" Intel Core i7-10870H 2.2GHz ", Nvidia GeForce RTX 3070 Laptop , 32GB RAM , 1TB SSD,"15.6""",2.1kg
+Dell Alienware X17 R1 Intel Core i7-11800H 2.3GHz , Nvidia GeForce RTX 3070 Laptop , 32GB RAM , 512GB SSD,"17.3""",3.2kg
+"Lenovo ThinkPad X1 Carbon Gen 10 14"" OLED Intel Core i7-1270P 2.2GHz ", 32GB RAM , 2TB SSD,,"14""",1.12kg
+"Lenovo ThinkPad X1 Carbon Gen 10 14"" OLED Intel Core i7-1265U 1.8GHz ", 32GB RAM , 2TB SSD,,"14""",1.12kg
+"Asus TUF Gaming A16 Advantage Edition (2023) 16"" FHD Plus AMD Ryzen 7 7735HS 3.2GHz ", AMD Radeon RX 7600S , 16GB RAM , 1TB SSD,"16""",220 g
+"HP ZBook Firefly G10 14"" Intel Core i7-1355U 1.7GHz ", Nvidia RTX A500 Laptop , 16GB RAM , 1TB SSD,"14""",1.45kg
+"MSI Summit E16 Flip A12UCT-008 16"" QHD+ Intel Core i7-1260P 1.5GHz ", Nvidia GeForce RTX 3050 Laptop , 16GB RAM , 512GB SSD,"16""",2.1kg
+"Lenovo ThinkPad X1 Nano Gen 2 13"" Intel Core i7-1270P 2.2GHz ", 16GB RAM , 1TB SSD,,"13""",989 g
+"Lenovo ThinkPad X1 Carbon Gen 10 14"" OLED Intel Core i5-1240P 1.2GHz ", 16GB RAM , 2TB SSD,,"14""",1.12kg
+"HP Pavilion Plus 16-ab0002np 16"" Intel Core i5-13500H 2.6GHz ", Nvidia GeForce RTX 3050 Laptop , 16GB RAM , 1TB SSD,"16""",1.89kg
+"Dell Alienware x14 (2022) 14"" Intel Core i7-12700H 2.3GHz ", Nvidia GeForce RTX 3060 Laptop , 32GB RAM , 2TB SSD,"14""",1.84kg
+Gigabyte Aero 15 OLED XD Intel Core i7-11800H 2.3GHz , Nvidia GeForce RTX 3070 Laptop , 16GB RAM , 1TB SSD,"15.6""",3.73kg
+"Lenovo ThinkPad X1 Yoga Gen 5 14"" Intel Core i7-10610U 1.8GHz ", 16GB RAM , 1TB SSD,,"14""",1.35kg
+"MSI GP76 Vector 12UH-297 17.3"" FHD Intel Core i7-12700H 1.7GHz ", Nvidia GeForce RTX 3080 Laptop , 32GB RAM , 1TB SSD,"17.3""",2.9kg
+Acer Nitro 16 (2023) AMD Ryzen 9 7940HS 4GHz , Nvidia GeForce RTX 4070 Laptop , 16GB RAM , 1TB SSD,"16""",2.8kg
+"Dell G16 7620 16"" QHD Plus Intel Core i9-12900H 2.5GHz ", Nvidia GeForce RTX 3070 Ti Laptop , 32GB RAM , 1TB SSD,"16""",2.7kg
+Acer Predator Helios 16 (2023) Intel Core i7-13700HX 2.1GHz , Nvidia GeForce RTX 4070 Laptop , 16GB RAM , 1TB SSD,"16""",2.6kg
+Asus ROG Zephyrus G15 GA503 AMD Ryzen 9 5900HS 3GHz , Nvidia GeForce RTX 3070 Laptop , 16GB RAM , 1TB SSD,"15.6""",1.9kg
+"Samsung Galaxy Book3 Pro 360 16"" Intel Core i7-1360P 2.2GHz ", 32GB RAM , 1TB SSD,,"16""",1.66kg
+"MSI Katana 15 B13VFK 15.6"" FHD Intel Core i9-13900H 2.6GHz ", Nvidia GeForce RTX 4060 Laptop , 32GB RAM , 1TB SSD,"15.6""",2.25kg
+"MSI GS66 Stealth 15.6"" Intel Core i9-10980HK 2.4GHz ", Nvidia GeForce RTX 3070 Laptop , 32GB RAM , 1TB SSD,"15.6""",2.1kg
+"Asus ProArt StudioBook Pro X W730G5T 17"" WUXGA Intel Xeon E-2276M 2.8GHz ", Nvidia Quadro RTX 5000 Laptop , 64GB RAM , 2TB SSD + 2TB SSD,"17""",2.5kg
+"Lenovo Legion 5i Pro 16"" WQXGA Intel Core i5-12500H 2.5GHz ", Nvidia GeForce RTX 3060 Laptop , 32GB RAM , 1TB SSD,"16""",2.49kg
+"Lenovo ThinkPad P53 15.6"" UHD Intel Core i9-9880H 2.3GHz ", 32GB RAM , 1TB SSD,,"15.6""",2.5kg
+"Asus ROG Strix G17 (2022) G713 17.3"" WQHD AMD Ryzen 9 6900HX 3.3GHz ", Nvidia GeForce RTX 3060 Laptop , 32GB RAM , 1TB SSD,"17.3""",2.9kg
+Asus ROG Strix Scar 17 G733 AMD Ryzen 9 5900HX 3.3GHz , Nvidia GeForce RTX 3070 Laptop , 32GB RAM , 1TB SSD,"17.3""",2.4kg
+"HP Omen 16-b1002np 16"" Intel Core i7-12700H 2.3GHz ", Nvidia GeForce RTX 3060 Laptop , 16GB RAM , 1TB SSD + 1TB SSD,"16.1""",2.31kg
+"Lenovo ThinkBook Plus Gen 3 17"" Intel Core i7-12700H 2.3GHz ", 32GB RAM , 1TB SSD,,"17.3""",2kg
+"Dell XPS 17"" (2020) Intel Core i7-10875H 2.3GHz ", 32GB RAM , 1TB SSD,,"17""",2.51kg
+"Asus ROG Zephyrus S17 GX703HM 17.3"" Intel Core i7-11800H 2.3GHz ", Nvidia GeForce RTX 3060 Laptop , 16GB RAM , 1TB SSD,"17.3""",2.6kg
+"Razer Blade 15 (2022) 15.6"" FHD Intel Core i7-12800H 1.8GHz ", Nvidia GeForce RTX 3070 Ti Laptop , 16GB RAM , 1TB SSD,"15.6""",2kg
+"Asus Vivobook Pro 16X N7601 16"" WQXGA Intel Core i7-12650H 2.3GHz ", Nvidia GeForce RTX 3060 Laptop , 32GB RAM , 1TB SSD,"16""",2.3kg
+"Lenovo ThinkPad X1 Carbon Gen 10 14"" OLED Intel Core i5-1250P 1.7GHz ", 16GB RAM , 2TB SSD,,"14""",1.12kg
+"Apple MacBook Pro (2023) 14"" Apple M2 Pro 12-core ", 32GB RAM , 8TB SSD,,"14.2""",1.6kg
+"MSI GP66 Leopard 15.6"" Intel Core i7-10870H 2.2GHz ", Nvidia GeForce RTX 3080 Laptop , 32GB RAM , 1TB SSD,"15.6""",2.38kg
+"Dell Inspiron 16 Plus 7630 16"" Intel Core i7-13620H 2.4GHz ", Nvidia GeForce RTX 3050 Laptop , 16GB RAM , 1TB SSD,"16""",2.06kg
+"Lenovo LOQ 16IRH8 16"" Intel Core i7-13700H 2.4GHz ", Nvidia GeForce RTX 4060 Laptop , 16GB RAM , 512GB SSD,"16""",2.6kg
+"Lenovo ThinkPad X1 Carbon Gen 10 14"" OLED Intel Core i5-1245U 1.6GHz ", 32GB RAM , 2TB SSD,,"14""",1.12kg
+"Asus ROG Strix G15 (2022) G513 15.6"" WQHD AMD Ryzen 9 6900HX 3.3GHz ", Nvidia GeForce RTX 3060 Laptop , 32GB RAM , 1TB SSD,"15.6""",2.3kg
+"Lenovo ThinkPad X1 Carbon Gen 10 14"" OLED Intel Core i7-1255U 1.7GHz ", 16GB RAM , 2TB SSD,,"14""",1.12kg
+"Dell G16 7630 (2023) 16"" QHD Plus Intel Core i7-13700HX 2.1GHz ", Nvidia GeForce RTX 4060 Laptop , 32GB RAM , 1TB SSD,"16""",2.73kg
+"MSI Cyborg 15 A13VE 15.6"" FHD Intel Core i7-13650HX 2.6GHz ", Nvidia GeForce RTX 4050 Laptop , 64GB RAM , 4TB SSD,"15.6""",1.98kg
+Asus ROG Strix G15 G513 AMD Ryzen 9 5900HX 3.3GHz , Nvidia GeForce RTX 3070 Laptop , 16GB RAM , 1TB SSD,"15.6""",2.3kg
+"MSI GS66 Stealth 10UH-603 15.6"" FHD Intel Core i7-10750H 2.6GHz ", Nvidia GeForce RTX 3080 Laptop , 32GB RAM , 1TB SSD,"15.6""",2.1kg
+Asus ROG Zephyrus Duo 15 GX550LXS Intel Core i9-10980HK 2.4GHz , 32GB RAM , 2TB SSD,,"15.6""",2.4kg
+Acer Predator Helios 16 (2023) Intel Core i7-13700HX 2.1GHz , Nvidia GeForce RTX 4060 Laptop , 16GB RAM , 1TB SSD,"16""",2.6kg
+Razer Blade 15 Studio Edition Intel Core i7-10875H 2.3GHz , 32GB RAM , 1TB SSD,,"15.6""",2.21kg
+"MSI GE76 Raider 11UG-054 17.3"" FHD Intel Core i7-11800H 2.4GHz ", Nvidia GeForce RTX 3070 Laptop , 32GB RAM , 1TB SSD,"17.3""",2.95kg
+"Dell G16 7620 16"" QHD Plus Intel Core i9-12900H 2.5GHz ", Nvidia GeForce RTX 3070 Laptop , 16GB RAM , 1TB SSD,"16""",2.7kg
+"HP Pavilion Plus 16-ab0000np 16"" Intel Core i7-13700H 2.4GHz ", Nvidia GeForce RTX 3050 Laptop , 16GB RAM , 1TB SSD,"16""",1.89kg
+"Dell Alienware X14 R2 (2023) 14"" Intel Core i7-13620H 2.4GHz ", Nvidia GeForce RTX 4060 Laptop , 32GB RAM , 4TB SSD,"14""",1.91kg
+Dell Alienware X15 R1 Intel Core i9-11900H 2.5GHz , Nvidia GeForce RTX 3070 Laptop , 32GB RAM , 1TB SSD,"15.6""",2.36kg
+"Dell Inspiron 16 Plus 7620 16"" Intel Core i7-12700H 2.3GHz ", Nvidia GeForce RTX 3060 Laptop , 32GB RAM , 1TB SSD,"16""",2.05kg
+"Lenovo ThinkPad P53 15.6"" UHD Intel Core i7-9850H 2.6GHz ", 32GB RAM , 512GB SSD,,"15.6""",2.9kg
+Dell Alienware X15 R1 Intel Core i7-11800H 2.3GHz , Nvidia GeForce RTX 3070 Laptop , 32GB RAM , 1TB SSD,"15.6""",2.36kg
+"Dell G15 5520 15.6"" FHD Intel Core i7-12700H 2.3Ghz ", Nvidia GeForce RTX 3060 Laptop , 32GB RAM , 2TB SSD,"15.6""",2.67kg
+"MSI GS66 Stealth 10UH-091 15.6"" FHD Intel Core i7-10870H 2.2GHz ", Nvidia GeForce RTX 3080 Laptop , 32GB RAM , 2TB SSD,"15.6""",2.1kg
+Asus ROG Zephyrus G15 GA503 AMD Ryzen 7 4800HS 2.9GHz , Nvidia GeForce RTX 3060 Laptop , 16GB RAM , 1TB SSD,"15.6""",1.9kg
+"MSI GP76 Leopard 17.3"" Intel Core i7-10875H 2.3GHz ", Nvidia GeForce RTX 3070 Laptop , 32GB RAM , 1TB SSD,"17.3""",2.9kg
+"Dell Alienware Area-51m R2 17.3"" Intel Core i9-10900K 3.7GHz ", 64GB RAM , 4TB SSD,,"17.3""",4.7kg
+"Lenovo Legion Pro 5 (2023) 16"" AMD Ryzen 7 7745HX 3.6GHz ", Nvidia GeForce RTX 4050 Laptop , 16GB RAM , 512GB SSD,"16""",16GB
+"Lenovo ThinkPad P53 15.6"" UHD Intel Core i7-9750H 2.6GHz ", 16GB RAM , 512GB SSD,,"15.6""",2.9kg
+"Asus TUF Gaming F15 (2023) 15.6"" FHD Intel Core i9-13900H 2.6GHz ", Nvidia GeForce RTX 4060 Laptop , 32GB RAM , 2TB SSD,"15.6""",32GB
+Dell XPS 15 9520 Intel Core i7-12700H 2.3GHz , Nvidia GeForce RTX 3050 Laptop , 16GB RAM , 512GB SSD,"15.6""",1.92kg
+"Microsoft Surface Book 2 15"" Intel Core i7-8650U ", 16GB , 1TB,,"15""",1.53kg
+"MSI Katana 15 B13VGK 15.6"" FHD Intel Core i7-13620H 2.4GHz ", Nvidia GeForce RTX 4070 Laptop , 32GB RAM , 1TB SSD,"15.6""",2.25kg
+"Acer Predator Triton 500 SE 16"" (2022) Intel Core i7-11800H 2.4GHz ", Nvidia GeForce RTX 3060 Laptop , 16GB RAM , 512GB SSD,"16""",2.45kg
+"Lenovo ThinkPad X1 Carbon Gen 10 14"" OLED Intel Core i5-1235U 1.3GHz ", 16GB RAM , 2TB SSD,,"14""",1.12kg
+"Lenovo Slim Pro 7 14"" AMD Ryzen 7 7735HS 3.2GHz ", Nvidia GeForce RTX 3050 Laptop , 16GB RAM , 512GB SSD,"14.5""",1.59kg
+"MSI WS66 11UKT-269 15.6"" UHD Intel Core i9-11900H 2.5GHz ", Nvidia RTX A3000 Laptop , 32GB RAM , 1TB SSD,"15.6""",2.1kg
+"MSI GP76 Vector 12UE 409 17.3"" FHD Intel Core i7-12700H 2.3GHz ", Nvidia GeForce RTX 3060 Laptop , 16GB RAM , 1TB SSD,"17.3""",2.9kg
+"LG Gram (2023) 17Z90R 17"" WQXGA Intel Core i7-1360P 2.2GHz ", Nvidia GeForce RTX 3050 Laptop , 32GB RAM , 2TB SSD,"17""",1.45kg
+"Asus ROG Zephyrus G14 (2023) 14"" FHD Plus AMD Ryzen 7 7735HS 3.2GHz ", Nvidia GeForce RTX 3050 Laptop , 16GB RAM , 1TB SSD,"14""",1.72kg
+"Lenovo ThinkPad P14s Gen 4 14"" AMD Ryzen 7 Pro 7840U 3.3GHz ", 64GB RAM , 2TB SSD,,"14""",1.34kg
+"HP EliteBook 1040 G9 14"" Intel Core i7-1255U 1.7GHz ", 32GB RAM , 1TB SSD,,"14""",1.16kg
+Razer Blade 17 QHD Intel Core i7-11800H 2.3GHz , Nvidia GeForce RTX 3060 Laptop , 16GB RAM , 1TB SSD,"17.3""",2.75kg
+"Dell XPS 13 Plus 13"" OLED Intel Core i7-1260P 2.1GHz ", 32GB RAM , 2TB SSD,,"13.4""",1.26kg
+"HP Dragonfly Pro Chromebook (2023) 14"" Intel Core i5-1235U 1.3GHz ", 16GB RAM , 256GB SSD,,"14""",1.51kg
+"MSI GS66 Stealth 10UH-254 15.6"" FHD Intel Core i7-10750H 2.6GHz ", Nvidia GeForce RTX 3080 Laptop , 32GB SSD , 1TB SSD,"15.6""",2.1kg
+"Asus TUF Dash F15 (2022) 15.6"" FHD Intel Core i7-12650H 2.3GHz ", Nvidia GeForce RTX 3060 Laptop , 16GB RAM , 512GB SSD,"15.6""",2kg
+"MSI GS66 Stealth 15.6"" Intel Core i7-10750H 2.6GHz ", Nvidia GeForce RTX 3060 Laptop , 16GB RAM , 1TB SSD,"15.6""",2.1kg
+"Lenovo Legion Slim 7i 15.6"" Intel Core i9-10980HK 2.4GHz ", 32GB RAM , 2TB SSD,,"15.6""",1.8kg
+Dell Alienware X17 R1 Intel Core i7-11800H 2.3GHz , Nvidia GeForce RTX 3060 Laptop , 16GB RAM , 256GB SSD,"17.3""",3.2kg
+"Asus ProArt StudioBook Pro 16 OLED W7600H3A 16"" Intel Core i7-11800H 2.3GHz ", Nvidia RTX A3000 Laptop , 16GB RAM , 1TB SSD,"16""",2.4kg
+"Asus TUF Gaming F17 (2022) 17.3"" Intel Core i7-12700H 1.7GHz ", Nvidia GeForce RTX 3060 Laptop , 64GB RAM , 2TB SSD + 2TB SSD,"17.3""",2.6kg
+"HP Omen 17-ck1009np 17"" Intel Core i7-12700H 2.3GHz ", Nvidia GeForce RTX 3060 Laptop , 16GB RAM , 1TB SSD,"17.3""",2.78kg
+"Apple MacBook Pro (2023) 14"" Apple M2 Pro 10-core ", 32GB RAM , 8TB SSD,,"14.2""",1.6kg
+Asus ROG Strix Scar 15 AMD Ryzen 7 5800H 3.2GHz , Nvidia GeForce RTX 3080 Laptop , 16GB RAM , 1TB SSD,"15.6""",2.3kg
+"HP Spectre x360 2-in-1 14-eu0098nr 14"" Intel Core Ultra 7 155H 1.4GHz ", 16GB RAM , 2TB SSD,,"14""",1.45kg
+Xiaomi Book Air 13 (2022) Intel Core i7-1250U 1.1GHz , 16GB RAM , 512GB SSD,,"13.3""",1.2kg
+"Microsoft Surface Laptop Studio 2 14.4"" Intel Core i7-13700H 2.4GHz ", 16GB RAM , 512GB SSD,,"14.4""",1.98kg
+"MSI Katana 15 B13VGK 15.6"" FHD Intel Core i9-13900H 2.6GHz ", Nvidia GeForce RTX 4070 Laptop , 32GB RAM , 1TB SSD,"15.6""",2.25kg
+"Samsung Galaxy Book3 360 15.6"" Intel Core i7-1360P 2.2GHz ", 16GB RAM , 1TB SSD,,"15.6""",1.46kg
+"Asus TUF Gaming F15 (2023) 15.6"" FHD Intel Core i7-13700H 2.4GHz ", Nvidia GeForce RTX 4050 Laptop , 32GB RAM , 2TB SSD,"15.6""",2.2kg
+Acer Predator Helios Neo 16 (2023) Intel Core i7-13700HX 2.1GHz , Nvidia GeForce RTX 4060 Laptop , 16GB RAM , 1TB SSD,"16""",2.8kg
+"Dell XPS 13 Plus 13"" OLED Intel Core i7-1280P 1.8GHz ", 32GB RAM , 2TB SSD,,"13.4""",1.26kg
+"Asus Zenbook S 13 OLED UX5304MA 13.3"" Intel Core Ultra 7 155H 1.4GHz ", 32GB RAM , 1TB SSD,,"13.3""",1kg
+"Gigabyte Aorus 17G XC 17.3"" Intel Core i7-10870H 2.2GHz ", Nvidia GeForce RTX 3070 Laptop , 32GB RAM , 512GB SSD,"17.3""",2.77kg
+"MSI Katana 15 B13VFK 15.6"" FHD Intel Core i7-13620H 2.4GHz ", Nvidia GeForce RTX 4060 Laptop , 32GB RAM , 1TB SSD,"15.6""",2.25kg
+Razer Blade 14 (2022) FHD AMD Ryzen 9 6900HX 3.3GHz , Nvidia GeForce RTX 3060 Laptop , 16GB RAM , 1TB SSD,"14""",1.78kg
+"HP ZBook Power G9 15.6"" Intel Core i9-12900H 2.5GHz ", Nvidia RTX A1000 Laptop , 32GB RAM , 1TB SSD,"15.6""",1.93kg
+"MSI GS76 Stealth 11UE-612XES 17.3"" FHD Intel Core i7-11800H 2.4GHz ", Nvidia GeForce RTX 3060 Laptop , 32GB RAM , 1TB SSD,"17.3""",2.45kg
+Samsung Galaxy Book 2,,,,"12""",794 g
+"LG Gram 2-in-1 16T90R 16"" WQXGA Intel Core i7-1360P 2.2GHz ", 16GB RAM , 2TB SSD,,"16""",1.48kg
+"Lenovo X1 Yoga Gen 6 14"" Intel Core i5-1135G7 2.4GHz ", 16GB RAM , 512GB SSD,,"14""",1.35kg
+"Dell G16 7620 16"" QHD Plus Intel Core i7-12700H 2.3GHz ", Nvidia GeForce RTX 3060 Laptop , 16GB RAM , 1TB SSD,"16""",2.7kg
+"MSI Prestige 13 AI Evo A1MG 13.3"" OLED Intel Core Ultra 7 155H 1.4GHz ", 16GB RAM , 1TB SSD,,"13.3""",988 g
+"Dell Alienware x14 (2022) 14"" Intel Core i7-12700H 2.3GHz ", Nvidia GeForce RTX 3050 Ti Laptop , 16GB RAM , 512GB SSD,"14""",1.84kg
+"Asus ROG Flow Z13 (2023) 13.4"" QHD Plus Intel Core i9-13900H 2.6GHz ", Nvidia GeForce RTX 2050 Laptop , 16GB RAM , 512GB SSD,"13.4""",1.18kg
+"MSI GS66 Stealth 10UH-454 15.6"" FHD Intel Core i9-10980HK 2.4GHz ", Nvidia GeForce RTX 3070 Laptop , 32GB RAM , 1TB SSD,"15.6""",2.1kg
+Razer Blade 15 Base Model FHD Intel Core i7-11800H 2.3GHz , Nvidia GeForce RTX 3070 Laptop , 16GB RAM , 512GB SSD,"15.6""",2.09kg
+"MSI GE76 Raider Dragon Edition Tiamat 17.3"" Intel Core i7-10870H 2.2GHz ", Nvidia GeForce RTX 3080 Laptop , 32GB RAM , 1TB SSD,"17.3""",2.9kg
+"HP Victus 16t-d000 16.1"" Intel Core i7-11800H 2.3GHz ", Nvidia GeForce RTX 3060 Laptop , 64GB RAM , 8TB SSD,"16.1""",2.4kg
+"Razer Blade 15 (2022) 15.6"" QHD Intel Core i7-12800H 1.8GHz ", Nvidia GeForce RTX 3060 Laptop , 16GB RAM , 1TB SSD,"15.6""",2kg
+"Lenovo ThinkPad X1 Yoga Gen 6 14"" Intel Core i7-1165G7 2.8GHz ", 16GB RAM , 1TB SSD,,"14""",1.35kg
+"Asus VivoBook Pro 16X OLED M7600RE 16"" AMD Ryzen 9 6900HX 3.3GHz ", Nvidia GeForce RTX 3050 Ti Laptop , 32GB RAM , 1TB SSD,"16""",2kg
+"LG Gram (2022) 17Z90Q 17"" WQXGA Intel Core i7-1260P 2.1GHz ", Nvidia GeForce RTX 2050 Laptop , 32GB RAM , 2TB SSD,"17""",1.44kg
+"Dell G16 7630 (2023) 16"" QHD Plus Intel Core i7-13650HX 2.6GHz ", Nvidia GeForce RTX 4060 Laptop , 32GB RAM , 1TB SSD,"16""",2.73kg
+"HP Victus 15-fa1017np 15.6"" Intel Core i5-12500H 2.5GHz ", Nvidia GeForce RTX 4060 Laptop , 16GB RAM , 1TB SSD,"15.6""",2.29kg
+"Acer Nitro 17 AN17-51-71ER 17.3"" Intel Core i7-13700H 2.4GHz ", Nvidia GeForce RTX 4060 Laptop , 16GB RAM , 1TB SSD,"17.3""",2kg
+"Hp Victus 16-s0023nt 16.1"" AMD Ryzen 5 7640HS 4.3GHz ", Nvidia GeForce RTX 4060 Laptop , 16GB RAM , 512GB SSD,"16.1""",16GB
+"Dell Alienware X14 R2 (2023) 14"" Intel Core i7-13620H 2.4GHz ", Nvidia GeForce RTX 4050 Laptop , 16GB RAM , 4TB SSD,"14""",1.91kg
+"Acer Nitro 17 (2023) 17.3"" AMD Ryzen 9 7940HS 4GHz ", Nvidia GeForce RTX 4070 Laptop , 32GB RAM , 1TB SSD,"17.3""",3.1kg
+"Asus ROG Strix G17 (2022) G713 17.3"" FHD AMD Ryzen 9 6900HX 3.3GHz ", Nvidia GeForce RTX 3050 Laptop , 32GB RAM , 1TB SSD,"17.3""",2.9kg
+"Lenovo ThinkPad X1 Yoga Gen 6 14"" Intel Core i5-1145G7 2.6GHz ", 16GB RAM , 512GB SSD,,"14""",1.35kg
+"Asus TUF Dash F15 (2022) 15.6"" FHD Intel Core i7-12650H 2.3GHz ", Nvidia GeForce RTX 3050 Ti Laptop , 16GB RAM , 512GB SSD,"15.6""",2kg
+"Lenovo LOQ 16IRH8 16"" Intel Core i7-13620H 2.4GHz ", Nvidia GeForce RTX 4050 Laptop , 16GB RAM , 512GB SSD,"16""",2.6kg
+"Lenovo Legion 5i Pro 16"" Intel Core i7-11800H 2.3GHz ", Nvidia GeForce RTX 3050 Laptop , 64GB RAM , 1TB SSD,"16""",2.45kg
+"MSI GS66 Stealth 10UG-608 15.6"" FHD Intel Core i9-10980HK 2.4GHz ", Nvidia GeForce RTX 3070 Laptop , 32GB RAM , 1TB SSD,"15.6""",2.1kg
+"MSI GS66 Stealth 10UG-219 15.6"" FHD Intel Core i9-10980HK 2.4GHz ", Nvidia GeForce RTX 3070 Laptop , 32GB RAM , 1TB SSD,"15.6""",2.1kg
+"Samsung Galaxy Book3 360 13.3"" Intel Core i7-1360P 2.2GHz ", 16GB RAM , 512GB SSD,,"13.3""",1.16kg
+"Asus Vivobook Pro 15 OLED M6500RE 15.6"" AMD Ryzen 7 6800H 3.2GHz ", Nvidia GeForce RTX 3050 Ti Laptop , 16GB RAM , 1TB SSD,"15.6""",1.8kg
+"Asus ROG Flow X13 (2023) 13.4"" FHD Plus AMD Ryzen 9 7940HS 4GHz ", 16GB RAM , 512GB SSD,,"13.4""",1.3kg
+"HP ZBook Firefly G10 16"" Intel Core i7-1355U 1.7GHz ", Nvidia RTX A500 Laptop , 16GB RAM , 1TB SSD,"16""",1.72kg
+"Dell Latitude 9510 15"" Intel Core i7-10810U 1.1GHz ", 16GB RAM , 1TB SSD,,"15""",1.5kg
+"Microsoft Surface Book 2 13.5"" Intel Core i7-8650U ", 16GB , 1TB,,"13.5""",1.53kg
+"Samsung Galaxy Book4 360 15.6"" Intel Core 5 120U 1.4GHz ", 16GB RAM , 512GB SSD,,"15.6""",1.46kg
+Acer Predator Triton 14 (2023) Intel Core i7-13700H 2.4GHz , Nvidia GeForce RTX 4070 Laptop , 16GB RAM , 1TB SSD,"14""",1.7kg
+"Asus ROG Zephyrus G14 GA401IU 14"" AMD Ryzen 7 4800HS 2.9GHz ", 16GB RAM , 512GB SSD,,"14""",1.6kg
+Microsoft Surface Pro 6,,,,"12.3""",784 g
+"HP Omen 16 (2022) 16"" FHD AMD Ryzen 9 6900HX 3.3GHz ", AMD Radeon RX 6650M , 32GB RAM , 1TB SSD,"16.1""",2.4kg
+"Dell G15 5535 15.6"" FHD AMD Ryzen 7 7840HS 3.8Ghz ", Nvidia GeForce RTX 4060 Laptop , 16GB RAM , 1TB SSD,"15.6""",2.97kg
+"Lenovo ThinkPad X1 Yoga Gen 5 14"" Intel Core i7-10510U 1.8GHz ", 16GB RAM , 512GB SSD,,"14""",1.35kg
+"MSI CreatorPro M16 A12UJS-653ES 16"" QHD Plus Intel Core i7-12700H 1.7GHz ", Nvidia RTX A2000 Laptop , 64GB RAM , 1TB SSD,"16""",2.26kg
+"Lenovo Legion 5 Pro 16"" WQXGA AMD Ryzen 7 6800H 3.2GHz ", Nvidia GeForce RTX 3060 Laptop , 32GB RAM , 1TB SSD,"16""",2.29kg
+"Gigabyte Aorus 17G XD 17.3"" Intel Core i7-11800H 2.3GHz ", Nvidia GeForce RTX 3070 Laptop , 16GB RAM , 512GB SSD,"17.3""",2.77kg
+"LG Gram (2022) 14T90Q 14"" WUXGA Intel Core i7-1260P 2.1GHz ", 32GB RAM , 1TB SSD,,"14""",997 g
+Asus ROG Strix Scar 17 G733 AMD Ryzen 9 5900HX 3.3GHz , Nvidia GeForce RTX 3060 Laptop , 32GB RAM , 1TB + 1TB SSD,"17.3""",2.4kg
+Asus ZenBook Flip S,,,,"13.3""",1.1kg
+"MSI Katana GF66 12UGSOK 15.6"" FHD Intel Core i9-12900H 2.5GHz ", Nvidia GeForce RTX 3070 Ti Laptop , 16GB RAM , 1TB SSD,"15.6""",2.25kg
+"Dell Latitude 9510 15"" Intel Core i7-10710U 1.1GHz ", 16GB RAM , 256GB SSD,,"15""",1.5kg
+Asus ROG Strix Scar 15 AMD Ryzen 7 5800H 3.2GHz , Nvidia GeForce RTX 3070 Laptop , 16GB RAM , 1TB SSD,"15.6""",2.3kg
+"HP Victus 16-r0022nf 16.1"" Intel Core i7-13700H 2.4GHz ", Nvidia GeForce RTX 4070 Laptop , 16GB RAM , 512GB SSD,"16.1""",2.33kg
+"HP Omen 16 (2022) 16"" FHD AMD Ryzen 7 6800H 3.2GHz ", AMD Radeon RX 6650M , 16GB RAM , 1TB SSD,"16.1""",2.4kg
+"Asus ROG Strix G15 (2022) G513 15.6"" FHD AMD Ryzen 9 6900HX 3.3GHz ", Nvidia GeForce RTX 3050 Laptop , 32GB RAM , 1TB SSD,"15.6""",2.3kg
+"Dell XPS 13 9315 2-in-1 13"" Intel Core i7-1250U 1.1GHz ", 16GB RAM , 1TB SSD,,"13""",736 g
+"Lenovo LOQ 15IRH8 15.6"" Intel Core i7-13700H 2.4GHz ", Nvidia GeForce RTX 4060 Laptop , 16GB RAM , 1TB SSD,"15""",2.4kg
+"MSI Katana 15 B13VEK 15.6"" FHD Intel Core i7-13620H 2.4GHz ", Nvidia GeForce RTX 4050 Laptop , 32GB RAM , 1TB SSD,"15.6""",2.25kg
+"Asus ProArt StudioBook Pro 15 W500G5T 15.6"" UHD Intel Core i7-9750H 2.6GHz ", Nvidia Quadro RTX 5000 Max-Q , 48GB RAM , 1TB SSD + 1TB SSD,"15.6""",1.98kg
+"Dell XPS 13 Plus 13"" OLED Intel Core i7-1360P 2.2GHz ", 32GB RAM , 2TB SSD,,"13.37""",1.26kg
+Acer Predator Helios Neo 16 (2023) Intel Core i7-13700HX 2.1GHz , Nvidia GeForce RTX 4050 Laptop , 16GB RAM , 512GB SSD,"16""",2.8kg
+"Razer Blade Pro 17 (2020) 17.3"" UHD Intel Core i7-10875H 2.3GHz ", 16GB RAM , 1TB SSD,,"17.3""",2.75kg
+"Asus ROG Flow X13 (2022) GV301 13.4"" AMD Ryzen 9 6900HS 3.3GHz ", 32GB RAM , 1TB SSD,,"13.4""",1.3kg
+"HP ZBook Firefly G8 15.6"" UHD Intel Core i7-1165G7 2.8GHz ", Nvidia T500 , 32GB RAM , 1TB SSD,"15.6""",1.7kg
+"MSI GP66 Leopard 15.6"" Intel Core i7-10870H 2.2GHz ", Nvidia GeForce RTX 3070 Laptop , 32GB RAM , 1TB SSD,"15.6""",2.38kg
+"Dell Inspiron 16 Plus 7630 16"" Intel Core i7-13700H 2.4GHz ", 16GB RAM , 1TB SSD,,"16""",2.06kg
+"Lenovo LOQ 15IRX9 15"" Intel Core i7-13650HX 2.6GHz ", Nvidia GeForce RTX 4060 Laptop , 16GB RAM , 512GB SSD,"15.6""",2.38kg
+"Samsung Notebook 9 Pen 13""",,,,"13.3""",995 g
+"Dell G16 7630 (2023) 16"" QHD Plus Intel Core i7-13650HX 2.6GHz ", Nvidia GeForce RTX 4050 Laptop , 16GB RAM , 1TB SSD,"16""",2.73kg
+"HP Envy x360 2-in-1 16-ad0097nr 16"" AMD Ryzen 7 8840HS 3.3GHz ", 16GB RAM , 1TB SSD,,"16""",1.92kg
+Dell Alienware X15 R1 Intel Core i7-11800H 2.3GHz , Nvidia GeForce RTX 3060 Laptop , 16GB RAM , 256B SSD,"15.6""",2.36kg
+"LG Gram (2022) 14T90Q 14"" WQXGA Intel Core i5-1240P 1.2GHz ", 16GB RAM , 512GB SSD,,"14""",997 g
+"MSI GP66 Leopard 15.6"" Intel Core i7-10750H 2.6GHz ", Nvidia GeForce RTX 3070 Laptop , 32GB RAM , 512GB SSD,"15.6""",2.38kg
+"MSI GS66 Stealth 10UG-075 15.6"" FHD Intel Core i7-10870H 2.2GHz ", Nvidia GeForce RTX 3070 Laptop , 32GB RAM , 1TB SSD,"15.6""",2.1kg
+"HP ZBook Firefly G10 16"" OLED Intel Core i7-1365U 1.8GHz ", Nvidia RTX A500 Laptop , 32GB RAM , 1TB SSD,"16""",1.72kg
+Asus ROG Strix G15 G513 AMD Ryzen 7 4800H 2.9GHz , Nvidia GeForce RTX 3070 Laptop , 16GB RAM , 1TB SSD,"15.6""",2.3kg
+Asus ROG Strix G15 G513 AMD Ryzen 7 4800H 2.9GHz , Nvidia GeForce RTX 3060 Laptop , 16GB RAM , 1TB SSD,"15.6""",2.3kg
+"LG Gram (2023) 16Z90R 16"" WQXGA Intel Core i7-1360P 2.2GHz ", 32GB RAM , 2TB SSD,,"16""",1.2kg
+"MSI GP76 Leopard 17.3"" Intel Core i7-10870H 2.2GHz ", Nvidia GeForce RTX 3070 Laptop , 16GB RAM , 1TB SSD,"17.3""",2.9kg
+"Dell Latitude 9510 15"" Intel Core i5-10210U 1.6GHz ", 8GB RAM , 128GB SSD,,"15""",1.5kg
+"MSI Summit E14 A11SCS-088 14"" UHD Intel Core i7-1185G7 3GHz ", Nvidia GeForce GTX 1650 Ti Laptop , 16GB RAM , 1TB SSD,"14""",1.29kg
+"Dell Alienware m15 R7 (2022) 15.6"" Intel Core i7-12700H 2.3GHz ", Nvidia GeForce RTX 3050 Ti Laptop , 16GB RAM , 2TB SSD,"15.6""",2.69kg
+"Lenovo LOQ 15IRH8 15.6"" Intel Core i5-13500H 2.6GHz ", Nvidia GeForce RTX 4060 Laptop , 16GB RAM , 1TB SSD,"15""",2.4kg
+"Dell Latitude 9510 15"" Intel Core i7-10610U 1.8GHz ", 8GB RAM , 256GB SSD,,"15""",1.5kg
+Acer Nitro 16 (2023) AMD Ryzen 5 7640HS 4.3GHz , Nvidia GeForce RTX 4050 Laptop , 16GB RAM , 512GB SSD,"16""",2.8kg
+"Asus TUF Gaming F17 (2023) 17.3"" Intel Core i9-13900H 2.6GHz ", Nvidia GeForce RTX 4060 Laptop , 16GB RAM , 1TB SSD,"17.3""",2.6kg
+"Lenovo Legion Slim 7i 15.6"" Intel Core i7-10750H 2.6GHz ", 32GB RAM , 1TB SSD,,"15.6""",1.8kg
